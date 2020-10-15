@@ -26,7 +26,13 @@ Activily doing standups, meetings, updating the Jira Board. (Ask group members h
 ## Domain knowledge
 ### Introduction of the subject field
 ### Literature research
+Korte verhaaltjes schrijven over de verschillende literatuur 
+
+Zie literatuur research Matt
 ### Explanation of Terminology, jargon and definitions
+Termologie noteren in een document
+
+Zie document Explanation of Terminology, jargon and definitions
 
 ## Data preprocessing
 ### Data exploration
