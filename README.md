@@ -37,12 +37,12 @@ Meer comments toevoegen aan de verschillende scripts.
 Making the presentation week 1 \
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/Ee4cUT-OhRBBnjbk5ecqJWQB6KFCECw79d9P3KG_4kdEQg?e=F2cn4E \
 
-Giving the Presentation week 1 to Class \
+Giving the Presentation week 1 to Class
 
 Making Presentation week 2 \
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/ERGcuK09FwtChQWLhclwVhsBqla4NVqkvSc_Htj5CX55yw?e=kvtd6X \
 
-Making Presentation week 6 \
+Making Presentation week 6
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/ESzZbt9onnBFhgzM1yookvwBUYQkK2B3xlqrNSe6I2o5oA?e=2vzzUf \
 
 Making Pressentation week 7 to Anniemeke \
