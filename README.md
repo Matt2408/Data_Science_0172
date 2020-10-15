@@ -30,10 +30,9 @@ Korte verhaaltjes schrijven over de verschillende literatuur
 
 Zie literatuur research Matt
 ### Explanation of Terminology, jargon and definitions
-Termologie noteren in een document
 
 Zie document Explanation of Terminology, jargon and definitions
-
+https://dehaagsehogeschool.sharepoint.com/:w:/s/AppliedDataScience_groups-ActivePal/Ec-OplhJ4u9DteD6IzfBAk8BmzO69_fP7rsgczPsGVutYA?e=WEFxFG
 ## Data preprocessing
 ### Data exploration
 Ik moet meer focussen op explorations
