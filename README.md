@@ -16,6 +16,9 @@ https://dehaagsehogeschool-my.sharepoint.com/:w:/g/personal/19070861_student_hhs
 ### Planning 
 Activily doing standups, meetings, updating the Jira Board. (Ask group members how to add items to the AP sprint)
 
+Planning topic can be found at the following link:
+https://dehaagsehogeschool-my.sharepoint.com/:w:/g/personal/19070861_student_hhs_nl/ET7nYTEmttlBpr4bRNv_xZEBaGyiV-plXR9AdcLf1JD8LA
+
 ## Predictive Analytics
 ### Selecting a Model
 ### Configuring a Model
