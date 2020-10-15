@@ -41,7 +41,7 @@ Making Presentation week 6 \
 Making Pressentation week 7 to Anniemeke \
 Making Presentation week 7 \
 Giving Presentation week 7 to Anniemeke \
-Giving Presentation week 7 to Class \
+Giving Presentation week 7 to Class 
 
 ### Writing paper
 
