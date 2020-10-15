@@ -34,14 +34,14 @@ Meer comments toevoegen aan de verschillende scripts.
 
 ## Communication
 ### Presentations 
-Making the presentation week 1
-Giving the Presentation week 1 to Class
-Making Presentation week 2
-Making Presentation week 6
-Making Pressentation week 7 to Anniemeke
-Making Presentation week 7 
-Giving Presentation week 7 to Anniemeke
-Giving Presentation week 7 to Class
+Making the presentation week 1 \
+Giving the Presentation week 1 to Class \
+Making Presentation week 2 \
+Making Presentation week 6 \
+Making Pressentation week 7 to Anniemeke \
+Making Presentation week 7 \
+Giving Presentation week 7 to Anniemeke \
+Giving Presentation week 7 to Class \
 
 ### Writing paper
 
