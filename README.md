@@ -4,6 +4,8 @@
 ### Task definition
 10/15/2020 - Building a teamplate for our research plan. It will contain our project introduction, troubledomein, research questions (introduction), research sub questions and planning
 
+10/15/2020 - Writing the introduction, trouble domain, research main questions, planning. I did not write the topic: 'Research Cards'.
+
 Found at: 
 https://dehaagsehogeschool-my.sharepoint.com/:w:/g/personal/19070861_student_hhs_nl/ET7nYTEmttlBpr4bRNv_xZEBaGyiV-plXR9AdcLf1JD8LA
 
