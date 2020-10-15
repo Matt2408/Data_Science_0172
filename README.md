@@ -29,7 +29,9 @@ Vraag docent: Bij ons is er vrij weinig data cleaning, hoe kan ik alsnog data cl
 ### Data preparation
 ### Data explanation
 Meer comments toevoegen aan de verschillende scripts.
-
+Voorbeeld: \
+https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/pearson_correlation_matrix.ipynb
+\
 ### Data visualization (exploratory)
 
 ## Communication
