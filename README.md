@@ -31,7 +31,9 @@ https://dehaagsehogeschool-my.sharepoint.com/:w:/g/personal/19070861_student_hhs
 ### Literature research
 Korte verhaaltjes schrijven over de verschillende literatuur 
 
-Zie literatuur research Matt
+Het document is op de volgende link te vinden!
+https://dehaagsehogeschool.sharepoint.com/:w:/s/AppliedDataScience_groups-ActivePal/EQPMabc4bD5GkE5KJfwh8gMB5DyXTaRiQdrHzfMSarJx2w?e=0xrdyq
+
 ### Explanation of Terminology, jargon and definitions
 10/15/2020 - Huidige lijst bevat 13/13 van de door mijn opgeleverde termen
 
