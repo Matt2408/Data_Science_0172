@@ -44,6 +44,11 @@ https://dehaagsehogeschool.sharepoint.com/:w:/s/AppliedDataScience_groups-Active
 ### Data exploration
 Ik moet meer focussen op explorations
 
+Onze opdrachtgever (Annemieke) gaf aan dat binnen de data er soms inconsititanties plaatsvonden. Om deze reden heb ik ervoor gekozen om zelf nogmaals in de data te duiken om te zoeken wat er precies speelt.
+
+Notebook: 
+https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb
+
 ### Data cleansing
 Vraag docent: Bij ons is er vrij weinig data cleaning, hoe kan ik alsnog data cleanen. 
 
@@ -68,10 +73,9 @@ Giving the Presentation week 2 to Class
 Making Presentation week 6 \
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/ESzZbt9onnBFhgzM1yookvwBUYQkK2B3xlqrNSe6I2o5oA?e=2vzzUf
 
-Making Pressentation week 7 to Anniemeke \
-Making Presentation week 7 \
-Giving Presentation week 7 to Anniemeke \
-Giving Presentation week 7 to Class 
+Making Pressentation week 7
+https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/EUwSACwxyh1GkGnd5mpU-FABy_aC-DxhTLgzzik8ADU91w?e=Mvy8tc
+
 
 ### Writing paper
 
