@@ -48,7 +48,7 @@ Onze opdrachtgever (Annemieke) gaf aan dat binnen de data er soms inconsititanti
 
 Notebook: 
 https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb
-
+https://dehaagsehogeschool.sharepoint.com/:w:/s/AppliedDataScience_groups-ActivePal/EXX3sqxTl0JPt9yjpufUTXkBmSOaQIm-1kWK9GiTOIdu-g?e=qummW1
 ### Data cleansing
 Vraag docent: Bij ons is er vrij weinig data cleaning, hoe kan ik alsnog data cleanen. 
 
