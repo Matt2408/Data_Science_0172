@@ -65,17 +65,19 @@ https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/pears
 Making the presentation week 1 \
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/Ee4cUT-OhRBBnjbk5ecqJWQB6KFCECw79d9P3KG_4kdEQg?e=F2cn4E
 
-
 Making Presentation week 2 \
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/ERGcuK09FwtChQWLhclwVhsBqla4NVqkvSc_Htj5CX55yw?e=kvtd6X
 Giving the Presentation week 2 to Class
 
-Making Presentation week 6 \
+Making Presentation week 5 \
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/ESzZbt9onnBFhgzM1yookvwBUYQkK2B3xlqrNSe6I2o5oA?e=2vzzUf
 
-Making Pressentation week 7
+Making Pressentation week 6
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/EUwSACwxyh1GkGnd5mpU-FABy_aC-DxhTLgzzik8ADU91w?e=Mvy8tc
 
+Making Presentation week 7
+
+Making Presentation week 8
 
 ### Writing paper
 
