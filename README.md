@@ -76,8 +76,10 @@ Making Pressentation week 6
 https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/EUwSACwxyh1GkGnd5mpU-FABy_aC-DxhTLgzzik8ADU91w?e=Mvy8tc
 
 Making Presentation week 7
+https://dehaagsehogeschool.sharepoint.com/:p:/s/AppliedDataScience_groups-ActivePal/EUwSACwxyh1GkGnd5mpU-FABy_aC-DxhTLgzzik8ADU91w?e=bInwPg
 
 Making Presentation week 8
+Link doesnt work
 
 ### Writing paper
 
