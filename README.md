@@ -2,11 +2,17 @@
 
 ## Research project 
 ### Task definition
-10/15/2020 (Working Alone) - Building a teamplate for our research plan. Brainstorming what it should include, what topics I want to include and check for spelling/grammar
+My part of the task definition has been done in the Research Plan (link found below). I took the task to make the structure of the research plan. The plan of the group was a start with a basic research plan. And iterate between every team member. I myself started with the document to make sure that everybody knew what we needed to provide in the research plan. 
 
-10/15/2020 (Working Alone) - Writing the introduction, trouble domain, research main questions, planning. I did not write the topic: 'Research Cards'.
+15/10/2020 (Working Alone) - Building a teamplate for our research plan. Brainstorming what it should include, what topics I want to include and check for spelling/grammar
 
-10/15/2020 - Review done by Dimitri and Mark -> Based on feedback I changed certain topics!
+16/10/2020 (Working Alone) - Writing the introduction, trouble domain, research main questions, planning. I did not write the topic: 'Research Cards'.
+
+16/10/2020 - Review done by Dimitri and Mark & Mark iterated over the document structur
+
+02/11/2020 - Review done by Tony Androili 
+
+06/11/2020 - I iterated over the feedback of Tony.
 
 Found at: 
 https://dehaagsehogeschool-my.sharepoint.com/:w:/g/personal/19070861_student_hhs_nl/ET7nYTEmttlBpr4bRNv_xZEBaGyiV-plXR9AdcLf1JD8LA
