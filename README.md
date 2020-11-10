@@ -2,6 +2,8 @@
 
 ## Research project 
 ### Task definition
+[link](Research%20Project/Task_definition.md)
+
 My part of the task definition has been done in the Research Plan (link found below). I took the task to make the structure of the research plan. The plan of the group was a start with a basic research plan. And iterate between every team member. I myself started with the document to make sure that everybody knew what we needed to provide in the research plan. 
 
 15/10/2020 (Working Alone) - Building a teamplate for our research plan. Brainstorming what it should include, what topics I want to include and check for spelling/grammar

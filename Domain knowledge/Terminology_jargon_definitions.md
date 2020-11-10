@@ -1,0 +1,1 @@
+Voor de Verklaring van terminologie, jargon en definities heb ik het volgende document opgebouwd, klik [hier](/Evidence/Domain_knowledge/Explanation%20of%20Terminology,%20jargon%20and%20definitions.docx). 

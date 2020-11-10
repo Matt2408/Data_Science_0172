@@ -1,0 +1,1 @@
+De introductie van de onderwerpsveld, kun je terugvinden op de volgende locatie. Klik [hier](/Evidence/Domain_knowledge/Introduction%20of%20the%20subject%20field.docx). 
