@@ -5,7 +5,7 @@ As a group we decided that every group member will iterate over the research pla
 
 I started with the first iteration, described what exactly I did. After my iteration my group members started to work on the same document. They added more detail, more topics and checked for spelling/grammer.
 
-You can find the research plan task definition [here](/Evidence/Research%20Project/Task%20Definition.md). The subject task definition is within this document and is only written by me.
+You can find the research plan [here](/Evidence/Research%20Project/Research%20plan%20(1).docx). The subject task definition is within this document and is only written by me.
 
 ### My work
 I myself started with the document to make sure that everybody knew what we needed to provide in the research plan. 
