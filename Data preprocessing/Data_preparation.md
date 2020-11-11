@@ -5,13 +5,13 @@ balancing
 ## Balancing the intensity classification model
 In this model we are using four indicators that show the intensity. Those indicators are grouped into four category's. Light, Moderate, Hard and Very hard. Below you can see the unbalanced classification model and the results it gives. 
 
-![Intensity_count_balanced](/Evidence/Data_preprocessing/Intensity_count_unbalanced.png)
+![Intensity_count_balanced](/Evidence/Data_preprocessing/Intensity_count_unbalanced.png)<br>
 Intensity count plot
 
-![Results intensity_count_balanced](/Evidence/Data_preprocessing/classification_report_unbalanced.png)
+![Results intensity_count_balanced](/Evidence/Data_preprocessing/classification_report_unbalanced.png)<br>
 Intensity results
 
-![Results intensity_count_balanced](/Evidence/Data_preprocessing/cross_validation_report_unbalanced.png)
+![Results intensity_count_balanced](/Evidence/Data_preprocessing/cross_validation_report_unbalanced.png)<br>
 Crossvalidation results
 
 To balance the dataset, I have put everything inside one dataframe.
@@ -46,13 +46,13 @@ Results:
 - Moderate     268
 - Light        268
 
-![Intensity_count_balanced](/Evidence/Data_preprocessing/Intensity_count_balanced.png)
+![Intensity_count_balanced](/Evidence/Data_preprocessing/Intensity_count_balanced.png)<br>
 Intensity count plot
 
-![Results intensity_count_balanced](/Evidence/Data_preprocessing/classification_report_balanced.png)
+![Results intensity_count_balanced](/Evidence/Data_preprocessing/classification_report_balanced.png)<br>
 Intensity results
 
-![Results intensity_count_balanced](/Evidence/Data_preprocessing/cross_validation_report_balanced.png)
+![Results intensity_count_balanced](/Evidence/Data_preprocessing/cross_validation_report_balanced.png)<br>
 Crossvalidation results
 
 Conclusion:
