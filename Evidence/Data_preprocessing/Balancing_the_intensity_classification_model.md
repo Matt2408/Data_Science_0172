@@ -51,7 +51,7 @@ Intensity results
 ![Results intensity_count_balanced](cross_validation_report_balanced.png)<br>
 Crossvalidation results
 
-Conclusion:
+### Conclusion:
 One of the flaws of up-sampling is that there is a big chance on overfitting. Below you can read the results of the regular test and the cross validation test. You can clearly see that it's overfitting and because of that the scores get lowered aswell!
 
 https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/intensity_classification_model_BALANCED_DONT_EDIT.ipynb
