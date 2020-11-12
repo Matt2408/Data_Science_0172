@@ -5,6 +5,8 @@ Binnen onze project group hebben we een verdeling gemaakt wie welke presentatie 
 - Zelf gepresenteerd
   - [Internal Presentation 2](/Evidence/Presentations/Internal%20Presentations%20%232.pdf)
   - [Internal Presentation 8](/Evidence/Presentations/Internal%20Presentation%20%238_Matt.pdf)
+  - INTERNAL TO DO (DATUM)
+  - EXTERNAL TO DO (DATUM)
   
 - Niet zelf gepresenteerd
   - [External Presentation 1](/Evidence/Presentations/External_presentation_1_MAKING.pdf)
