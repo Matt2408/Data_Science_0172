@@ -1,5 +1,9 @@
 ## Balancing the intensity classification model
-[link](/Evidence/Data_preprocessing/Balancing_the_intensity_classification_model.md)
+Hier komt de [link](/Evidence/Data_preprocessing/Balancing_the_intensity_classification_model.md)
+
+
+## Filtering respondents
+Hier komt feature selection [link](/Evidence/Data_preprocessing/Filtering_respondents.md)
 
 ## Feature selection
-Hier komt feature selection [link]()
+Hier komt feature selection [link](link hier)
