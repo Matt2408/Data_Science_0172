@@ -8,9 +8,10 @@ Studentnumber:
 
 ## Research project
 ### Task definition and evaluation:
-
+* [Task definition](/Research%20Project/Task_definition.md)
 ### Conclusions:
 ### Planning:
+* [Planning](/Research%20Project/Planning.md)
 ### Evaluation:
 
 &nbsp;
