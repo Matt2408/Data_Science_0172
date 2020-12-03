@@ -6,8 +6,6 @@ Studentnumber:
 * [Datacamp Course]()
 
 
-
-
 ## Research project
 ### Task definition and evaluation:
 ### Conclusions:
@@ -23,10 +21,15 @@ Studentnumber:
 ### Visualizing the outcome of a model (explanatory):
 
 &nbsp;
-## Domain knowledge
+## Domain knowledge (NEED FEEDBACK)
 ### Subject field:
+* [Subject field](/Domain%20knowledge/Introduction%20of%20the%20subject%20field.pdf)
+
 ### Literature research:
+* [Literature research](/Domain%20knowledge/Literature%20Research.pdf)
+
 ### Explanation of Terminology, jargon and definitions:
+* [Literature research](/Domain%20knowledge/Explanation%20of%20Terminology,%20jargon%20and%20definitions.pdf)
 
 &nbsp;
 ## Data preprocessing 
@@ -37,13 +40,16 @@ Studentnumber:
 ### Data visualization (exploratory):
 
 &nbsp;
-## Communication
+## Communication (NEED FEEDBACK)
 
 ### Communication
 * [Communication](/Communication/Communicatie.md)
-### Paper
-### Presentations
 
+### Paper
+* [Paper (not finished)](/Communication/Paper.md)
+
+### Presentations
+* [Presentations](/Communication/Presentations.md)
 
 
 
