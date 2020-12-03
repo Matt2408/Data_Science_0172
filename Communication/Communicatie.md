@@ -9,3 +9,6 @@ In de eerste instantie was Colin gekozen voor alle communicatie. Hij heeft al he
 - Het plannen van gesprekken met opdrachtgever
 - Het leiden van de gesprekken met de opdrachtgever
 - Het mailverkeer met de opdrachtgevers, denk hierbij aan vragen die betrekking hebben tot de presentaties etc..
+
+Ter verificatie heb ik een overgezicht gemaakt van een aantal emails dat aantoond dat ik daadwerkelijk vanaf week 11 tot en met het einde van het project verantwoordelijk was voor al het contact tussen CBS, de docenten en het ActivePal project team!
+* [Email bijlage bewijs](/Evidence/Communicatie/Communication_proof_CBS.pdf)
