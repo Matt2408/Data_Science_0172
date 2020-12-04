@@ -6,7 +6,7 @@ Studentnumber:
 * [Datacamp Course]()
 
 
-## Research project [NEED FEEDBACK OF task definition and Planning]
+## Research project (Could use feedback)
 ### Task definition and evaluation:
 * [Task definition](/Research%20Project/Task_definition.md)
 ### Conclusions:
@@ -23,7 +23,7 @@ Studentnumber:
 ### Visualizing the outcome of a model (explanatory):
 
 &nbsp;
-## Domain knowledge (NEED FEEDBACK)
+## Domain knowledge (Could use feedback)
 ### Subject field:
 * [Subject field](/Domain%20knowledge/Introduction%20of%20the%20subject%20field.pdf)
 
@@ -31,7 +31,7 @@ Studentnumber:
 * [Literature research](/Domain%20knowledge/Literature%20Research.pdf)
 
 ### Explanation of Terminology, jargon and definitions:
-* [Literature research](/Domain%20knowledge/Explanation%20of%20Terminology,%20jargon%20and%20definitions.pdf)
+* [Terminology](/Domain%20knowledge/Explanation%20of%20Terminology,%20jargon%20and%20definitions.pdf)
 
 &nbsp;
 ## Data preprocessing 
@@ -42,7 +42,7 @@ Studentnumber:
 ### Data visualization (exploratory):
 
 &nbsp;
-## Communication (NEED FEEDBACK)
+## Communication (Could use feedback)
 
 ### Communication
 * [Communication](/Communication/Communicatie.md)
