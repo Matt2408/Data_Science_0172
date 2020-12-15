@@ -76,14 +76,14 @@ I couldnt really find great proof of those stand-ups except all the meetings in 
 </details>
 
 
-### Conclusions
+### Conclusions [TO DO]
 <details> <summary>Conclusions</summary>
 
 [More Examples](topics/research_project/conclusions.md)
 
 </details>
 
-### Evaluation
+### Evaluation [TO DO]
 <details> <summary>Evaluation</summary>
 
 [More Examples](topics/research_project/planning.md)
