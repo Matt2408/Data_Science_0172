@@ -66,11 +66,18 @@ You can find my iteration of planning (inside the research plan) [here](/Evidenc
 </details>
 
 <details> <summary>Daily stand-up/retrospective</summary>
+<b>Daily standup </b><br />
 To manage the project as good as we can, we kept daily standups every day since the beginning of the project in week 1. In the standup we would discuss our progress, what we have done, issues and what you are going to do next. In my opinion was this part of the project really important to keep track of our progress and help us to determine our next steps.
 
 I couldnt really find great proof of those stand-ups except all the meetings in the teams environment. All teachers should have access to this environment to verify all our daily work. 
 
+<b>Retrospective </b><br />
+At the end of every sprint (every two weeks), the group would do a scrum retrospective. In this retrospective we would look back at the Jira board and discuss the sprint progress. What tasks are done, what should we focus next week and what are the issues that didn't get solved. Every retrospective was always with the whole team, this meant that it was also the moment that we were able to discuss issues within the team and to describe actionpoints for the upcoming sprint.
 
+Examples of real actionpoints are:
+- Being on time on the daily standup
+- Being more active in meetings with CBS/teachers
+- Giving more information at the standups
 
 
 </details>
