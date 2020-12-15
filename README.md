@@ -1,6 +1,8 @@
 # Portfolio Data Science
 Name: Matthew Turkenburg  <br />
-Studentnumber: 
+Studentnumber: <br />
+Course: Applied Data Science Minor<br />
+Lecturers: Jeroen Vuurens, Gerda in 't Veld, Tony Andrioli, Ruud Vermeij, Brian de keijzer
 
 ## DataCamp courses
 * [Datacamp Course]()
@@ -63,7 +65,7 @@ Studentnumber:
 ### TODO
 Toevoegen dat ik heb geholpen bij APPLICATIE Plothelper (distribution)
 Toevoegen dat ik samen met COlin heb gewerkt aan 
-
+TOEVOEGEN DAT IK SCALER HEB TOEGEPAST (https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/predict_cycling_heavy_met_XGBoost_updated_scaler_matt.ipynb)
 https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Creating%20main%20dataframe%20(containing%20all%20data).ipynb
 en
 https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20rennen-new-dataframe.ipynb#Splitting-the-data
