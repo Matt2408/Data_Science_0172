@@ -7,38 +7,92 @@ Lecturers: Jeroen Vuurens, Gerda in 't Veld, Tony Andrioli, Ruud Vermeij, Brian 
 ## Project ActivPal
 
 ### Research project
-<details> <summary>Task Definition</summary>
+### Task Definition
+In this portfolio you can read all my individual work to the ActivePal project for the minor Data Science. 
+
+In project ActivePal we are trying to help Het Centraal Bureau voor de Statistiek (CBS) with their problem. Currently they experiencing issues with measuring if their target audience has moved for atleast 150 minutes a week while doing moderate physical activity's. At the moment they measure this by manually giving out health surveys but the results of this are not good enough. People seem to be bad at estimating how much time they have spend doing moderate physical activity's. 
+
+To help CBS out, our group got formed and based on the problem, project domain and input from the productowner, the following research question is made:
+
+> <b> How can Machine Learning be used to determine whether people did their 150 minutes of moderate activity in ActivPal accelerometer data of an entire week? </b>
+
+To answer this questions we decided that we first had to answer the following two sub questions (in order).
+
+><b>How can Machine Learning be used to predict the intensity of activities performed in a lab situation by a person, who is being monitored with Vyntus One and wearing ActivPal accelerometer?  <br /><br />
+How can Machine Learning be used to predict the intensity of activities performed by a person wearing only the ActivPal accelerometer, based on the data gathered from Vyntus One and ActivPal accelerometer in the lab situation? </b>
+
+
+
+
+<details> <summary>Reseach plan</summary>
+Personally I took the job on me to make sure that every member of the projectgroup had a clear understanding of the project. To do this I wanted to create the first iteration of the research plan. In this research plan members would be able to get a more knowledge of the given task by CBS, read the research questions and read what exactly we do for the work planning. Based on the research plan that I made people were able to make new iterations of the reseach questions and were able to read the exact task that CBS gave us.    
+
+You can find my iteration of the research plan [here](/Evidence/Research%20Project/Research%20plan%20by%20Matt%20V1.pdf)
 
 [More Examples](topics/research_project/task_definition.md)
 
 </details>
 
-<details> <summary>Evaluation</summary>
+### Planning
+At the beginning of the project the group decided unanimously that we wanted to work in an agile way. Because of that we decided that we wanted to follow philosophy of Scrum, but didn't want to follow every rule exact, this means that there was some flexibility on our side. Within the group we decided that we wanted to have sprints of two weeks and ending the sprint with a retrospective. At every retrospective I (and my group members) gave my feedback based on the progress. More about the planning can be read down below in the sub paragraph: Research plan - planning (written by me).
 
-[More Examples](topics/research_project/evaluation.md)
+
+<details> <summary>Jira</summary>
+As a group everybody was responsible to keep track of the Jira board. I saw this task as really important because it's important that everybody has knowledge what you are doing, and what the current status is. It also gave the opportunity to people to take tasks that were sitting still.
+
+Within the group we decided that Ali Safdari would be the Jira master. This means that he would take the lead assigning tasks, keeping track of the progress and the board. I tried to assist him  as much as I could by managing my own tasks, and keeping the status of my tasks up to date. Below you can read our sprint log of all the sprints that have been concluded. In the pictures you can clearly see that I have been attributing to the Jira board in a positive way throughout the project. 
+
+The sprint log doesn't show a good example what exactly has been done by the invidiual persons, however it does show that I contributed to managing and helping the Jira planning.
+#####Jira sprint 1
+[![Sprint1.png](https://i.postimg.cc/256hF4rC/Sprint1.png)](/Evidence/Research%20Project/Jira%20bewijs/Sprint1.png)
+#####Jira sprint 2
+[![Sprint2.png](https://i.postimg.cc/fytJJKcr/Sprint2.png)](https://postimg.cc/vxyQK5Sr)
+#####Jira sprint 3
+[![Sprint3.png](https://i.postimg.cc/9FsnktLF/Sprint3.png)](https://postimg.cc/HV4zc5Gf)
+#####Jira sprint 4
+[![Sprint4.png](https://i.postimg.cc/cC3dq4Gv/Sprint4.png)](https://postimg.cc/m1TvC4D4)
+#####Jira sprint 5
+[![Sprint5.png](https://i.postimg.cc/dQZCQ2qy/Sprint5.png)](https://postimg.cc/Jtm0PBHr)
+#####Jira sprint 6
+[![Sprint6.png](https://i.postimg.cc/dtM5JtKJ/Sprint6.png)](https://postimg.cc/CdNGN012)
+</details>
+
+<details> <summary>Research plan - Planning</summary>
+In the research plan I wrote a section about our planning. This planning was used to help people understand our way of working. I made the first iteration of this section, later on in the project my contrubition helped Colin with the second and final iteration of this section for the final research plan.
+
+You can find my iteration of planning (inside the research plan) [here](/Evidence/Research%20Project/Research%20plan%20by%20Matt%20V1.pdf)
+</details>
+
+<details> <summary>Daily stand-up/retrospective</summary>
+To manage the project as good as we can, we kept daily standups every day since the beginning of the project in week 1. In the standup we would discuss our progress, what we have done, issues and what you are going to do next. In my opinion was this part of the project really important to keep track of our progress and help us to determine our next steps.
+
+I couldnt really find great proof of those stand-ups except all the meetings in the teams environment. All teachers should have access to this environment to verify all our daily work. 
+
+
+
 
 </details>
 
+
+### Conclusions
 <details> <summary>Conclusions</summary>
 
 [More Examples](topics/research_project/conclusions.md)
 
 </details>
 
-<details> <summary>Planning</summary>
+### Evaluation
+<details> <summary>Evaluation</summary>
 
 [More Examples](topics/research_project/planning.md)
 
 </details>
 
 ## Domain knowledge
-For every research you want to do, you would need to get a certain level of domain knowledge. I wanted to create such domain knowledge by researching similiair researches. You can find my findings below in the chapter literature research. But this wasn't enough, I also had to research documents delivered by our project owner (CBS) to fully understand in what domain we were working in. By combining the knowledge from the given documents and the found literature I was able to write down a subject field document, document my literature findings and document the terminology, jargon and definitions I have found on the way. This document helped myself and my group members to understand the domain.
+For every research you want to do, you would need to get a certain level of domain knowledge. I wanted to create such domain knowledge by researching similiair researches. But this wasn't enough, I also had to research documents delivered by our project owner (CBS) to fully understand in what domain we were working in. By combining the knowledge from the given documents and the found literature I was able to write down a subject field document, document my literature findings and document the terminology, jargon and definitions that I had found on the way. This document helped myself and my group members to understand the domain.
 ### Introduction of the subject field
 Below you can read the subject field, based all the findings while working on the project.
 <details> <summary>More about the subject field</summary>
-
-###Introduction of the subject field
-
 Statistics Netherlands (CBS) has the wish to see if their respondents are moving for at least 150 minutes per week in moderately intense physical activity.  
 
 Currently, they are measuring by asking their respondent or health surveys. The issue with this is that people are not very good at estimating the time they spent on moving and sport. This of course causes that they don't have very reliable data to work with.  Therefor CBS has been looking into alternatives like the accelerometer in combination with machine learning to give better and more accurate results when measuring the intensity of certain activities. After doing extensive research CBS concluded that the ActivPal accelerometer would give the best results when looking into recognizing activities and the intensity of those activities, therefor CBS have chosen to do further research to find out how the combination of the ActivPal accelerometer in combination with machine learning can predict if respondents have done their moderate physical activity for 150 minutes per week.
@@ -55,28 +109,63 @@ To make sure that this project won’t research the wrong subjects or goes out o
 </details>
 
 ### Literature research
-In this part of the chapter you can find some of the literature findings that I have done while researching the project domain. I only wrote down the most important findings from the papers that we could use for the project domain or for writing the paper in the future. All information found here has been used throughout out the project.
+In this part of the chapter you can find some of the literature findings that I have done while researching the project domain. I only wrote down the most important findings from the papers that we could use for the project domain or for writing the paper in the future. 
 <details> <summary>The accelerometer project findings lab research 1.0</summary>
+This paper is focused on finding the most accurate classification based on machine learning used different kinds of accelerator sensors. But in my opinion the paper gives great insights about the following topics. 
 
+<b>3.6 Estimating Intensity (energy expenditure)<br /></b>
+While scanning this paper the first thing that really sticked out for me was chapter 3.6 Estimating Intensity (energy expenditure). This chapter explains what they have used to measure intensity. In the case of this paper they used Metabolic Equivalent or Task (MET), otherwise known as EE / MUMR. Where EE stands for Energy Expenditure and BUMR stands for the base metabolic rate per kg and time unit. Basically you can say EE is the number of calories burned during an activity. The best way to calculate MET is by using VO2, but other options are possible.
+
+<b>3.2 Validation<br /></b>
+Since this research paper is made by the CBS, and they are going to use the same correspondents as we do. We could look into the way they validated their project. In chapter 3.2 Validation, they explain how they build their test and training set and what values they used. In the case of this paper they used a training set of 60% based off their total dataset. 
+
+<b>3.4 Metrics</b><br />
+CSB tested their work on the following metrics: Accuracy, Precision, recall and F1 score. They don’t mention if they used any other metrics. 
+
+<b>5.2 Scatterplots for specific respondents</b> <br />
+CBS mentions in their paper that there have been a phenomenon that occurs for almost all respondents. What is happening is that the when a respondent is doing an activity and switches to a different activity. As example from standing to walking the heart rate goes down while the VO2 intake goes up. CBS states that this is very strange since they would expect the heart rate to go up as well. 
+
+<b>Conclusions</b><br />
+-All MAD intensity estimates seem to overestimate the intensity of jerky activities and do not record how much static force the body exerts on the environment.  
+-ActivPAL registers the approximate intensity of cycling well, but is not accurate enough to distinguish between light and heavy cycling. ActivePAL also overestimates the intensity of low intensity activities.  
 
 
 </details>
 <details> <summary>Beweegonderzoek</summary>
+Deze paper onderzoekt in hoeverre er een verband is tussen MET en acceleratie. Hierbij wordt gebruik gemaakt van dezelfde dataset die bij ons project wordt toegepast. In deze paper wordt beschreven welke stappen zijn gevolgd om de data uit te lezen , op te schonen en te kunnen worden geanalyseerd. Bij de analyse lag de focus voornamelijk op de MET value. 
+
+Uit dit onderzoek bleek dat zitten een gemiddelde MET score had van 1.5 en staan een gemiddelde van 1.6. Fietsen zwaar en fietsen licht kwamen erg bij elkaar in de buurt met een MET value van 6 en van 5. 
+
+Tijdens het onderzoek is naar voren gekomen dat sommige activepal bestande niet bestaan, ook zijn er verschillen te vinden tussen de verschillende vyntus metingen. 
+
+De accelerators gaan niet altijd terug naar de nulwaarde van de accelerator waardoor het voor kan komen dat bij rustige activiteiten zoals zitten en staan, de waarde boven de 1 MET kan komen. 
+
+Doordat het aantal testpersonen niet op grote schaal was uitgezet, zorgde dit ervoor dat de resultaten misschien wel accuraat waren, maar niet konden worden getest met de werkelijkheid.
 
 
 
 </details>
 <details> <summary>Measurement of Phy 2016</summary>
+<b>Measurement</b><br />
+In this paper it explains how physical activity get measured using accelerometers. The first topic being discussed is how acceleration is measured by using the following formula (acceleration = velocity/time). This acceleration is frequently expressed in the meters per square second or by using g-force. G-Force stands for 1 g = 9.8m/s (force of gravity).
 
+<b>Epochs </b><br />
+Epochs are specific time intervals for which counts are summed for data analyses. Epochs are not always the same but are depending on the amount of data and depend on the population (different epochs for children/eldery) .
+In our project we are working with adults and elders. Because of this it’s recommend to use epochs of 60 seconds. (Copeland & Esliger, 2009; Freedson et al., 1998; Hendelmanet al., 2000; Miller, Strath, Swartz, & Cashin, 2010; Sasaki et al., 2011;Swartz et al., 2000);
+
+<b>Intensity of movement (Figure 2.2)</b><br />
+This paper uses a combination of counts and MET values to determine if an activity is moderate/low/high. They count the amount of data point in one minute and use cut-off points with different categories to see how intensive an activity is. 
 
 
 </details>
 <details> <summary>MET Calculations from On-Body Accelerometers</summary>
-
+This paper tries to use on-body accelerometers to measure activity/met while doing activity’s. To do this they used approximations they measured and compare those to known MET scores. In the paper they describe there are other ways to measure this without accelerometers by using the heart rate or using VO2. Like I have mentioned in the other conclusions of the papers, they are using cut of points based on MET values to determine what kind of activity has been done (and how intense). 
 
 
 </details>
 <details> <summary>Physical activity recognition</summary>
+This paper goes to the basics of physical activity. It explains how physical activity can be defined: As any voluntary body movement generated by the contraction of skeletal muscles resulting in energy expenditure. 
+It also explains how to measure physical activity, to conclude this subject they use regular accelerometers, Piezoelectric accelerometers and capactive accelerometers. They also mention how you can estimate the energy expenditure using accelerometers. They mention that you can use MET and use features like length, weight, BMI and even body composition (fat and lean mass). 
 
 
 
@@ -125,7 +214,7 @@ Vo2 – Oxygen consumption by breathing spicy. <br />
 
 </details>
 
-### Data preprocessing
+## Data preprocessing
 <details> <summary>Data exploration</summary>
 
 [More Examples](topics/data_preprocessing/data_exploration.md)
@@ -151,7 +240,7 @@ Vo2 – Oxygen consumption by breathing spicy. <br />
 </details>
 
 
-### Predictive Analytics
+## Predictive Analytics
 
 <details> <summary>selecting a model</summary>
 

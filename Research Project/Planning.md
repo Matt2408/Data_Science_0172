@@ -23,7 +23,7 @@ Since the beginning of the project we decided to use Jira as a tool to help us m
 
 The sprint log doesn't show a good example what exactly has been done by the invidiual persons, however it does show that I contributed to managing and helping the Jira planning.
 #####Jira sprint 1
-[![Sprint1.png](https://i.postimg.cc/256hF4rC/Sprint1.png)](https://postimg.cc/nXyXn9XW)
+[![Sprint1.png](https://i.postimg.cc/256hF4rC/Sprint1.png)](/Evidence/Research%20Project/Jira%20bewijs/Sprint1.png)
 #####Jira sprint 2
 [![Sprint2.png](https://i.postimg.cc/fytJJKcr/Sprint2.png)](https://postimg.cc/vxyQK5Sr)
 #####Jira sprint 3
