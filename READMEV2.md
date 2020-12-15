@@ -274,24 +274,46 @@ Vo2 – Oxygen consumption by breathing spicy. <br />
 
 </details>
 
-### communication
+### Communication
+Within our project we decided that one member of the project team would take the roll of the communicater. The communicater roll had to do:
 
-<details> <summary>presentation</summary>
+- Communicate with the teachers in behalf of other group members
+- Communicate with the CBS in behalf of the other group members
+- Planning of meetings with CBS/teachers
 
-[More Examples](topics/data_preprocessing/presentation.md)
+So whenever we would have questions, you would hand those over to the communicater and he would contact both parties to find the answers. As a group we decided that Colin would take the roll of the communicater for the first part of the project. In the second part of the project we decided that I would take this roll on me till the end of the project. I found out that I was mostly emailing questions, setting up meetings and making sure that CBS had no further questions to us. 
+
+
+<details> <summary>Presentation</summary>
+Within our group we made a  planning who, would when do the different presentations. Because I study Business IT & Management, I had quite a lot of experience with doing presentations. I also really liked giving the presentations because it showed everybody exactly what we did the last week. Because of this I gave in total 4 presentations, you can see links of all of them below. Most of the presentations were made as a group. In some cases some groupmembers added more content then others  (depending on the week). For the presentations that I gave, I always verified the content and tried to add more content.
+
+- Presentations that I gave
+  - [Internal Presentation 2](/Evidence/Presentations/Internal%20Presentations%20%232.pdf)
+  - [Internal Presentation 8](/Evidence/Presentations/Internal%20Presentation%20%238_Matt.pdf)
+  - [Internal Presentation_17]()
+  - [External Presentation 3](/Evidence/Presentations/External%20Presentation%20%2313%20-%20Matthew.pptx)
+  
+- Presentations were I applied most content
+  - [External Presentation 1](/Evidence/Presentations/External_presentation_1_MAKING.pdf)
+  - [External Presentation 2](Research%20Project/External_presentation_2_MAKING.pdf)
 
 </details>
 
-<details> <summary>writing paper</summary>
+<details> <summary>Paper</summary>
+Add content here
 
-[More Examples](topics/data_preprocessing/writing_paper.md)
+</details>
 
+<details> <summary>Emailing</summary>
+As communicater I had to communicate with CBS quite often. The topics discussed were mostly about meetings, questions from us, questions from CBS and showing the progress of our project. 
+
+Examples of emails:
+
+* [Link](/Evidence/Communicatie/Communication_proof_CBS.pdf)
 </details>
 
 ## Datacamp
-
-
-![Images]()
+Within this Minor I have been doing Data Camp to learn more about Data Science. In this chapter you can find all the courses that I have finished while doing the Minor. 
 
 |Course|Statement of Accomplishment|
  |------|---------------------------|
