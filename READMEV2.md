@@ -43,18 +43,20 @@ As a group everybody was responsible to keep track of the Jira board. I saw this
 Within the group we decided that Ali Safdari would be the Jira master. This means that he would take the lead assigning tasks, keeping track of the progress and the board. I tried to assist him  as much as I could by managing my own tasks, and keeping the status of my tasks up to date. Below you can read our sprint log of all the sprints that have been concluded. In the pictures you can clearly see that I have been attributing to the Jira board in a positive way throughout the project. 
 
 The sprint log doesn't show a good example what exactly has been done by the invidiual persons, however it does show that I contributed to managing and helping the Jira planning.
-#####Jira sprint 1
+
+####Jira sprint 1<br />
 [![Sprint1.png](https://i.postimg.cc/256hF4rC/Sprint1.png)](/Evidence/Research%20Project/Jira%20bewijs/Sprint1.png)
-#####Jira sprint 2
+####Jira sprint 2<br />
 [![Sprint2.png](https://i.postimg.cc/fytJJKcr/Sprint2.png)](https://postimg.cc/vxyQK5Sr)
-#####Jira sprint 3
+####Jira sprint 3<br />
 [![Sprint3.png](https://i.postimg.cc/9FsnktLF/Sprint3.png)](https://postimg.cc/HV4zc5Gf)
-#####Jira sprint 4
+####Jira sprint 4<br />
 [![Sprint4.png](https://i.postimg.cc/cC3dq4Gv/Sprint4.png)](https://postimg.cc/m1TvC4D4)
-#####Jira sprint 5
+####Jira sprint 5<br />
 [![Sprint5.png](https://i.postimg.cc/dQZCQ2qy/Sprint5.png)](https://postimg.cc/Jtm0PBHr)
-#####Jira sprint 6
+####Jira sprint 6<br />
 [![Sprint6.png](https://i.postimg.cc/dtM5JtKJ/Sprint6.png)](https://postimg.cc/CdNGN012)
+
 </details>
 
 <details> <summary>Research plan - Planning</summary>
