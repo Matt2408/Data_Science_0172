@@ -38,6 +38,7 @@ Below you can read the subject field, based all the findings while working on th
 <details> <summary>More about the subject field</summary>
 
 ###Introduction of the subject field
+
 Statistics Netherlands (CBS) has the wish to see if their respondents are moving for at least 150 minutes per week in moderately intense physical activity.  
 
 Currently, they are measuring by asking their respondent or health surveys. The issue with this is that people are not very good at estimating the time they spent on moving and sport. This of course causes that they don't have very reliable data to work with.  Therefor CBS has been looking into alternatives like the accelerometer in combination with machine learning to give better and more accurate results when measuring the intensity of certain activities. After doing extensive research CBS concluded that the ActivPal accelerometer would give the best results when looking into recognizing activities and the intensity of those activities, therefor CBS have chosen to do further research to find out how the combination of the ActivPal accelerometer in combination with machine learning can predict if respondents have done their moderate physical activity for 150 minutes per week.
