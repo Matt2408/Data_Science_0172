@@ -44,19 +44,19 @@ Within the group we decided that Ali Safdari would be the Jira master. This mean
 
 The sprint log doesn't show a good example what exactly has been done by the invidiual persons, however it does show that I contributed to managing and helping the Jira planning.
 
-####Jira sprint 1<br />
+<b>Jira sprint 1<br />
 [![Sprint1.png](https://i.postimg.cc/256hF4rC/Sprint1.png)](/Evidence/Research%20Project/Jira%20bewijs/Sprint1.png)
-####Jira sprint 2<br />
+Jira sprint 2<br />
 [![Sprint2.png](https://i.postimg.cc/fytJJKcr/Sprint2.png)](https://postimg.cc/vxyQK5Sr)
-####Jira sprint 3<br />
+Jira sprint 3<br />
 [![Sprint3.png](https://i.postimg.cc/9FsnktLF/Sprint3.png)](https://postimg.cc/HV4zc5Gf)
-####Jira sprint 4<br />
+Jira sprint 4<br />
 [![Sprint4.png](https://i.postimg.cc/cC3dq4Gv/Sprint4.png)](https://postimg.cc/m1TvC4D4)
-####Jira sprint 5<br />
+Jira sprint 5<br />
 [![Sprint5.png](https://i.postimg.cc/dQZCQ2qy/Sprint5.png)](https://postimg.cc/Jtm0PBHr)
-####Jira sprint 6<br />
+Jira sprint 6<br />
 [![Sprint6.png](https://i.postimg.cc/dtM5JtKJ/Sprint6.png)](https://postimg.cc/CdNGN012)
-
+</b>
 </details>
 
 <details> <summary>Research plan - Planning</summary>
