@@ -344,14 +344,35 @@ Within this Minor I have been doing Data Camp to learn more about Data Science. 
 
 ## Reflection and evaluation
 <details> <summary>Reflection on own contribution to the project</summary> 
-
+<b>S</b>ituation:</br> Looking back at the ActivePal project, I really had a good time with the project group. We started off early and planned alot of things straight away from day one. Since the minor was the last step before I can graduate, I almost always gave my 100% since I really wanted to succeed. The project subject was challenging but that helped me to keep my head straight. I tried to contribute as much as possible to all tasks, especially the tasks that were signed in my name. The project group was fun and the longer we were working together, the better the results became. It took some time to get into the project, but it was a fun challenge. 
+</br></br>
+<b>T</b>ask:</br> One of the hardest tasks within this project was to stay motivated whenever it didn't go as planned. Since I didn't have a programming background, I had some trouble with Datacamp and with the programming. One of the tasks I remember perfectly was building the XGboost model for MET. It was very challenging but I worked very hard on it to show my team something I they didnt expect me to build. My contribution was mostly found by doing the research, thinking about our plan, making plots to show the new insights. I really enjoyed those tasks and they definitly contributed to the project.
+</br>
+</br>
+<b>A</b>ction:</br>Whenever I had trouble with a task or couldn't go forward. I would take reach out on teams or talk about my issues in the daily standups. By communicating exactly what I was up to and the troubles I had. I could get helped easily.
+</br></br>
+<b>R</b>esult:</br>I am very glad with the results we made as a group. Together we all worked very hard. Not everybody was working on exactly the same speed but almost everybody contributed in such matter that we made progress. Looking back at myself I think I can still get better at taking up advice and really doing something with it. Sometimes I can be stubborn and try to fix it myself instead of asking help. Another lesson I like to take with me is trying more to make everybody feel more welcome even if they don't feel like that way or are very unmotivated. To come to a conclusion: I think I definitly showed the group what I am capable off and that I really wanted to succeed. My contribution definitly helped the project to come to the result we came.
 </details>
 
-<details> <summary>Reflection on own learning objectives</summary> 
 
+<details> <summary>Reflection on own learning objectives.</summary> 
+<b>S</b>ituation:</br>At the beginning of the project I decided that I wanted to write down a few learning objectives that needed to be succeeded at the end of the Minor. By setting my own learning objectives, I had a clear view of the things I wanted to learn and it gave me a goal to reach. 
+</br></br><b>T</b>ask:</br>The following learnings objectives were written when I first started with the minor. </br>
+- I would love to learn the basics of python and be able to build a machine learning model on my own.</br>
+- I would love to develop business skills since that's something I want to do in the future. For example I would like to become better in speaking English and I would love to experience giving presentations in English. </br> 
+- I like to learn about artificial intelligence and how to use it. </br>
+- I like to be more social while working on the project </br>
+- I like to take the lead more often, or come up with good idea's instead of keeping them to myself.
+
+</br><b>A</b>ction:</br> To make sure that I really progressed in the objectives I did the following. From the start of the project I stated that I wanted to give as many presentations as possible. This is something I been dealing with for a while and I really want to become better at it. In total I gave 7 presentations in English. So that was really cool but challenging. For learning Python I decided that I would do all objectives to reach 100% in Datacamp. To make sure that I was more social in the project, I would stay longer in the chats, even if we were done and it was just casual talk. For taking the lead I wanted to come forward more often. I think this is still work in progress, I think it's very hard for me to do so. 
+</br></br><b>R</b>esult:</br> Looking back at those tasks, I really think I did a good job. I wasn't able to succeed them all. One of the tasks I wasn't able to succeed is about taking the lead more often. In the project I saw myself not taking the lead as much as I wanted to. But instead I did come forward way more often with my idea's and how they could be benefical to the project. However I didnt learn as much about Artificial Intelligence (AI) as I hoped, maybe this is caused by the minor being so much different then I expected. 
+If I look at the first task, about learning Python. I definitly can say that I learned alot while working on the ActivePal project. Learning Python was really fun but challenging, I  really liked the freedom that we gotten and that we were able to learn Python in our own speed. Another point that I worked on really hard on was giving presentation in English. It's something I had never done before, so that a really fun experience. Last but not least, the objective about being more social. I feel like I definitly was more social while working on this Minor. Maybe this was caused by the Corona crisis that forced us to do it online.  Either way it gave me a great opportunity to make new friends. 
 </details>
 
 <details> <summary>Evaluation on the group project as a whole</summary> 
-
+<b>S</b>ituation:</br> 
+<b>T</b>ask:</br>
+<b>A</b>ction:</br>
+<b>R</b>esult:</br>
 </details>
 
