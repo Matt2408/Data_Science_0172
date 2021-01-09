@@ -87,6 +87,8 @@ Examples of real actionpoints are:
 <details> <summary>Conclusions</summary>
 For the conclusion of our research we had decided to divide this into two parts. One scientific conclusion that I didn't write and one conclusion to CBS and their colleagues to explain our results. Since I was still in contact with CBS to discuss the handover of documents and results. I decided to give them a clear conclusion of our results. You can find the document in which I explain our project conclusions to CBS.   
 
+</br>
+
 Click [here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)
 
 </details>
