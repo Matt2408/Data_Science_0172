@@ -370,9 +370,11 @@ If I look at the first task, about learning Python. I definitly can say that I l
 </details>
 
 <details> <summary>Evaluation on the group project as a whole</summary> 
-<b>S</b>ituation:</br> 
-<b>T</b>ask:</br>
-<b>A</b>ction:</br>
-<b>R</b>esult:</br>
+<b>S</b>ituation:</br>At the beginning of the project our group had six group members. Including three software engineers, four of us had already finished everything except the minor and were ready to finish our school journey. This means that some of us were really motivated to work hard, get quick results and show that we were able to do research. 
+
+</br><b>T</b>ask:</br>This means that in the beginning of the project it was clear that we all wanted to give 100% to get as far as possible as soon as possible. We gave everybody tasks and we started our journey. It started off really good in the first two weeks. Everybody was researching and the first results were good. But after the first three weeks it came forward that some of us were contributing every day, by coming to the meetings, working together and some of our project group didnt. Personally this didn't bother me to much, since we were still progressing fast and I think it project was going good. I started to learn programming in Python and enjoyed it. The first time getting in contact with the projectowner went really well and we went along good. I can say the same about the lectures. The lectures were really fun, engaging and I learned alot. The further we got into the project and the assignments the better we started to work together. Of course it didn't always go smooth so for that reason we started to meet in real life to see each other.  
+
+</br><b>A</b>ction:</br> Whenever the project didn't go as smooth as planned, we would come together and discuss the issues. One of the problems we had would be that some group members were not motivated enough. Because of this the progress got slowed down. To make sure that we would still succeed we decided that we would meet more often and talk to each other multiple times a day. By having good communication we were able to change our work style and get better results. 
+</br></br><b>R</b>esult:</br>I am really glad with the end results that we got. We started with six but ended with five. Dimitri was a nice guy to work with but Machine Learning just wasn't his thing. I think for the most part of the project I had alot of fun and was able to easily work together with most of the team. Alot of us really want to work hard and come forward with the best results possible but it was a hard journey. We didn't always exactly knew what was expected and since we were all new to Machine Learning it wasn't always easy. If I look back at the complete picture of the project. I am glad, very glad that I have choosen this Minor. 
 </details>
 
