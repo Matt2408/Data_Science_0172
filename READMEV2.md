@@ -342,4 +342,16 @@ Within this Minor I have been doing Data Camp to learn more about Data Science. 
 ![Images](/Evidence/Datacamp.png)
 
 
+## Reflection and evaluation
+<details> <summary>Reflection on own contribution to the project</summary> 
+
+</details>
+
+<details> <summary>Reflection on own learning objectives</summary> 
+
+</details>
+
+<details> <summary>Evaluation on the group project as a whole</summary> 
+
+</details>
 
