@@ -85,25 +85,30 @@ Examples of real actionpoints are:
 
 ### Conclusions
 <details> <summary>Conclusions</summary>
-For the conclusion of our research we had decided to divide this into two parts. One scientific conclusion that I didn't write and one conclusion to CBS and their colleagues to explain our results. Since I was still in contact with CBS to discuss the handover of documents and results. I decided to give them a clear conclusion of our results. You can find the document in which I explain our project conclusions to CBS.   
+For the conclusion of our research we had decided to divide this into two parts. One scientific conclusion that I helped to write together with Colin and Adnan. I was able to give them clear directions after they wrote the first iteration. After the directions, they asked for help so the second iteration was written by Me, Adnan and Colin.
 
+Since I had a clear understanding of the conclusion, we decided that I would contact CBS and their colleagues to explain our results. You can find the document in which I explain our project conclusions to CBS.
+<br />
 
-
-<br />Click [here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)
+Click [here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)<br />
 
 </details>
 
-### Evaluation [TO DO]
+### Evaluation
 <details> <summary>Evaluation</summary>
+For my contrubtion to the evaluation, you can look at two different contributions that I worked the most on. 
 
-[More Examples](topics/research_project/planning.md)
+- Personally I think that our discussion (that I wrote the first big iteration) has some good examples of our weaknesses of the project.
+- Conclusions to CBS. This is the a different chapter in the document that was send over to CBS at the handover of the project related documents. In this document I wrote advice to CBS and explained the issues we had researching the topic. 
+Click [here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)<br />
+
 
 </details>
 
 ## Domain knowledge
 For every research you want to do, you would need to get a certain level of domain knowledge. I wanted to create such domain knowledge by researching similiair researches. But this wasn't enough, I also had to research documents delivered by our project owner (CBS) to fully understand in what domain we were working in. By combining the knowledge from the given documents and the found literature I was able to write down a subject field document, document my literature findings and document the terminology, jargon and definitions that I had found on the way. This document helped myself and my group members to understand the domain.
 ### Introduction of the subject field
-Below you can read the subject field, based all the findings while working on the project.
+Below you can read the subject field, based all the findings while working on the project.  The subject field was one of the first documents that I worked on. It was written when there wasn't a clear picture of the project. This document gave the opportunity to get more knowledge about the subject field to understand what we were working with. 
 <details> <summary>More about the subject field</summary>
 Statistics Netherlands (CBS) has the wish to see if their respondents are moving for at least 150 minutes per week in moderately intense physical activity.  
 
@@ -121,7 +126,7 @@ To make sure that this project won’t research the wrong subjects or goes out o
 </details>
 
 ### Literature research
-In this part of the chapter you can find some of the literature findings that I have done while researching the project domain. I only wrote down the most important findings from the papers that we could use for the project domain or for writing the paper in the future. 
+In this part of the chapter you can find some of the literature findings that I have done while researching the project domain. I only wrote down the most important findings from the papers that we could use for the project domain or for writing the paper in the future. This documentation was really nice for writing the paper and understanding the subject field. Since it gives myself and the group the option to really quickly read the most important subjects from those scientific papers. 
 <details> <summary>The accelerometer project findings lab research 1.0</summary>
 This paper is focused on finding the most accurate classification based on machine learning used different kinds of accelerator sensors. But in my opinion the paper gives great insights about the following topics. 
 
@@ -184,7 +189,7 @@ It also explains how to measure physical activity, to conclude this subject they
 </details>
 
 ### Explanation of Terminology, jargon and definitions
-In this part you can read some of my documented terminology, jargon and definitions that I have found while working on the project.
+In this part you can read some of my documented terminology, jargon and definitions that I have found while working on the project. This document helped the group to understand a few topics that were discussed quite often inside our daily standsups and researching. The following list is my contribution to our jargon list. Personally I really liked making this list since it gave structure and was a fallback when I didn't understand a topic and wanted to research it later on. 
 <details> <summary>Explanation of Terminology, jargon and definitions</summary>
 
 ###Introduction
@@ -291,61 +296,54 @@ Within our project we decided that one member of the project team would take the
 - Communicate with the CBS in behalf of the other group members
 - Planning of meetings with CBS/teachers
 
-So whenever we would have questions, you would hand those over to the communicater and he would contact both parties to find the answers. As a group we decided that Colin would take the roll of the communicater for the first part of the project. In the second part of the project we decided that I would take this roll on me till the end of the project. I found out that I was mostly emailing questions, setting up meetings and making sure that CBS had no further questions to us. 
-
-
-<details> <summary>Presentation</summary>
-Within our group we made a  planning who, would when do the different presentations. Because I study Business IT & Management, I had quite a lot of experience with doing presentations. I also really liked giving the presentations because it showed everybody exactly what we did the last week. Because of this I gave in total 4 presentations, you can see links of all of them below. Most of the presentations were made as a group. In some cases some groupmembers added more content then others  (depending on the week). For the presentations that I gave, I always verified the content and tried to add more content.
-
-- Presentations that I gave
-  - [Internal Presentation 2](/Evidence/Presentations/Internal%20Presentations%20%232.pdf)
-  - [Internal Presentation 8](/Evidence/Presentations/Internal%20Presentation%20%238_Matt.pdf)
-  - [Internal Presentation_17]()
-  - [External Presentation 3](/Evidence/Presentations/External%20Presentation%20%2313%20-%20Matthew.pptx)
-  
-- Presentations were I applied most content
-  - [External Presentation 1](/Evidence/Presentations/External_presentation_1_MAKING.pdf)
-  - [External Presentation 2](Research%20Project/External_presentation_2_MAKING.pdf)
-
-</details>
-
-<details> <summary>Paper</summary>
-Add content here
-
-</details>
+So whenever we would have questions, you would hand those over to the communicater and he would contact both parties to find the answers. As a group we decided that Colin would take the roll of the communicater for the first part of the project. In the second part of the project we decided that I would take this roll on me till the end of the project. I found out that I was mostly emailing questions, setting up meetings and making sure that CBS had no further questions to us.
 
 <details> <summary>Emailing</summary>
-As communicater I had to communicate with CBS quite often. The topics discussed were mostly about meetings, questions from us, questions from CBS and showing the progress of our project. 
+Because I had the communication function within our group (at the second half of the project). I had to communicate with CBS quite often. The topics discussed were mostly about meetings, questions from us, questions from CBS and showing the progress of our project. I really liked this roll, since it gave me the opportunity to be more open and being 
+organized. It also helped my group alot that somebody would make sure that CBS was up to date and that every meeting was planned for the upcoming sprint.  
 
-Examples of emails:
+Below you can find some examples of the communication I had with CBS. 
 
 * [Link](/Evidence/Communicatie/Communication_proof_CBS.pdf)
 </details>
 
+### Presentations
+<details> <summary>Presentations</summary>
+At the beginning of every sprint, we would decide who would give the next upcoming presentations. I really liked giving the presentations (and my groupmembers definitly didn't), so for that reason you can see that I did a few of them. For every presentation we would come together to work on the content of the presentations. We would do this by explaining to each other what we did, and what we wanted to show the group. My contribution lays in the giving of the presentations and filling the presentations with content. Especially if I had to give them myself, I would verify the content and make sure that they were a certain quality.  
+
+
+- Internal presentations that I gave
+  - [Internal Presentation 2](/Evidence/Presentations/Internal%20Presentations%20%232.pdf)
+  - [Internal Presentation 8](/Evidence/Presentations/Internal%20Presentation%20%238_Matt.pdf)
+  - [Internal Presentation 15]()
+- External presentations that I gave
+  - [External Presentation 3](/Evidence/Presentations/External%20Presentation%20%2313%20-%20Matthew.pptx)
+  - [External Presentation 4]()
+  - [External Presentation 5]()  
+    
+</details>
+
+### Paper
+As a group we decided that everybody would work on the paper. To make this possible we used the same method as prior documents. First we would devide the paper into certain topics and devide those topics between the group members and everytime somebody would finish their first iteration of the subject then one of the group members would review their work and make a second iteration of the subject. By doing this everybody would be able to give their opinion about the subjects of the paper and you are able to write a very compact paper with the 
+thoughts of five groupmembers. 
+
+For writing the paper I had the following tasks to finish. I excluded giving feedback in this, since I would go over every iteration to give feedback to the group.
+
+- Writing the discussion V1
+- Writing the discussion V2**
+- I wrote introduction V3**
+- I wrote study design V3**
+
+
+** = iteration based on feedback/comments from group members.
+
+
+
+
 ## Datacamp
 Within this Minor I have been doing Data Camp to learn more about Data Science. In this chapter you can find all the courses that I have finished while doing the Minor. 
 
-|Course|Statement of Accomplishment|
- |------|---------------------------|
- | Introduction to python |[proof]()|
- | Python Data Science Toolbox (Part 1) |[proof]()|
- | Intermediate Python |[proof]()|
- | Python Data Science Toolbox (Part 2) |[proof]()|
- | Pandas Foundations |[proof]()|
- | Introduction to Data Visualization in Python |[proof]() |
- | Manipulating Dataframes with pandas |[proof]()|
- | Data Types for Data Science in Python |[proof]()|
- | Cleaning data in Python |[proof]()|
- | Preprocessing for Machine Learning in Python |[proof]()|
+![Images](/Evidence/Datacamp.png)
 
 
-
-
- 
-<details> 
-<summary>Summary proof </summary>
-
-![Images]()
-
-</details>
 
