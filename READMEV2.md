@@ -285,7 +285,7 @@ Vo2 – Oxygen consumption by breathing spicy. <br />
 
 </details>
 
-### Communication
+## Communication
 Within our project we decided that one member of the project team would take the roll of the communicater. The communicater roll had to do:
 
 - Communicate with the teachers in behalf of other group members
