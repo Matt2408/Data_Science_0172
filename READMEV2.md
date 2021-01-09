@@ -191,7 +191,7 @@ It also explains how to measure physical activity, to conclude this subject they
 ### Explanation of Terminology, jargon and definitions
 In this part you can read some of my documented terminology, jargon and definitions that I have found while working on the project. This document helped the group to understand a few topics that were discussed quite often inside our daily standsups and researching. The following list is my contribution to our jargon list. Personally I really liked making this list since it gave structure and was a fallback when I didn't understand a topic and wanted to research it later on. 
 <details> <summary>Explanation of Terminology, jargon and definitions</summary>
-Accelerometer - is a tool that measures proper acceleration. <br />
+<b>Accelerometer</b> - is a tool that measures proper acceleration. <br />
 ActivPAL accelerometer – captures body posture and transition between these postures, stepping, and stepping speed (cadence).<br />
 Vyntus – Document that contains the lab data of the Vyntus sensor, which measures the O2 uptake and the CO2 production.<br />
 Dataframe - A table of data with rows and columns.<br />
