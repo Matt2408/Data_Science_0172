@@ -29,7 +29,7 @@ Personally I took the job on me to make sure that every member of the projectgro
 
 You can find my iteration of the research plan [here](/Evidence/Research%20Project/Research%20plan%20by%20Matt%20V1.pdf)
 
-[More Examples](topics/research_project/task_definition.md)
+The research plan helped the group to understand the problem domain, discuss about the research questions and rethink our way of doing about the subject planning. 
 
 </details>
 
@@ -83,10 +83,11 @@ Examples of real actionpoints are:
 </details>
 
 
-### Conclusions [TO DO]
+### Conclusions
 <details> <summary>Conclusions</summary>
+For the conclusion of our research we had decided to divide this into two parts. One scientific conclusion that I didn't write and one conclusion to CBS and their colleagues to explain our results. Since I was still in contact with CBS to discuss the handover of documents and results. I decided to give them a clear conclusion of our results. You can find the document below in witch I explain our project conclusions to CBS.   
 
-[More Examples](topics/research_project/conclusions.md)
+[here](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)
 
 </details>
 
