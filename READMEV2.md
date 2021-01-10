@@ -339,7 +339,7 @@ for column in fill_na_columns :
 
 </details>
 
-<details> <summary>RFE (TODO)</summary>
+<details> <summary>RFE</summary>
 To make sure that the model isn't going to be using redundant features I wanted to write code to use RFE on the dataframe. The following code applies RFE to the dataset and takes the best six features and uses that in the model. I been experimenting with this, so what I did was different configurations. The end result can be read below:
 
 ````python
