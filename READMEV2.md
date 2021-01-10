@@ -138,7 +138,7 @@ Met de modellen en de applicatie tonen wij aan op welke wijze machine learning k
 
 
 
-### Evaluation
+### Evaluation [TO DO]
 <details> <summary>Evaluation</summary>
 For my contrubtion to the evaluation, you can look at two different contributions that I worked the most on. 
 
@@ -290,17 +290,65 @@ The small movements that are being picked up by the accelerator can be caused by
 I discussed with the group and CBS how some of the corrospondents are starting at a different value then 1.G (range of 1.0 to 1.3G) but so far this can't be explained.
 </details>
 
-<details> <summary>Data cleaning [TO DO]</summary>
+<details> <summary>Data cleaning</summary>
 
 The dataset that we received from CBS was given in cleaned state. For us this meant that we really couldn't do much. 
 
 </details>
 
-<details> <summary>Data preparation [TODO]</summary> 
+<details> <summary>Data preparation [TODO]</summary>
+Data preparation is a very broad aspect of machine learning. In this chapter I will show you what I have done to make sure that the data was ready to be used in an efficient way in the models. Below you can read about the subjects I worked on.
 
-[More Examples](topics/data_preprocessing/data_preparation.md)
+
+
+<details> <summary>Variance Tresholding</summary>
+To make sure that there wasn't any low variance features being used in the models. I had chosen to use VarianceThreshold from SKlearn. You can find the code below. This function removes any low variance features that would be bad for the model.
+
+````python
+# Applying lecture lesson to data set - Variance treshold (70% best results)
+sel = VarianceThreshold(threshold=(.7 * (1 - .7)))
+x = sel.fit_transform(x)
+````
 
 </details>
+
+
+
+<details> <summary>New features</summary>
+One of the things I had read in papers were to test out if it would be benefitical to use the following two features: Standard deviation and mean. For that reason I had written the following code:
+
+````python
+                stdev_x =  statistics.stdev(activpal_segment['x']) if len(activpal_segment['pal_accX']) >= 2 else 0
+                mean_x = activpal_segment['pal_accX'].mean()
+
+                stdev_y =  statistics.stdev(activpal_segment['pal_accY']) if len(activpal_segment['pal_accY']) >= 2 else 0
+                mean_y = activpal_segment['pal_accY'].mean()
+
+                stdev_z =  statistics.stdev(activpal_segment['pal_accZ']) if len(activpal_segment['pal_accZ']) >= 2 else 0
+                mean_z = activpal_segment['pal_accZ'].mean()  
+
+````
+</details>
+
+
+<details> <summary>Filling empty values</summary>
+After I wrote the code for the new features above (stdev/mean). I wanted to fill every nan value. I did that with the following code from the lecture:
+
+````python
+fill_na_columns = ['standard_deviation_x', 'mean_x', 'standard_deviation_y', 'mean_y','standard_deviation_z', 
+                    'mean_z']
+
+for column in fill_na_columns :
+    features[column].fillna(0, inplace=True)
+````
+
+</details>
+
+<details> <summary>RFE (TODO)</summary>
+
+</details>
+
+--- 
 
 <details> <summary>Data visualization</summary>
 Before we could make important decisions, like choosing a model, the features and other options. We needed to know what kind of data we were working with. For that reason I started to visualize our current data. The first thing I wanted to try was to see if there was a clear seperation between the different activity's. For that reason I made the following plot.  
