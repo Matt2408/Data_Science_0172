@@ -8,7 +8,7 @@ Lecturers: Jeroen Vuurens, Gerda in 't Veld, Tony Andrioli, Ruud Vermeij, Brian 
 
 ### Research project
 ### Task Definition
-In this portfolio you can read all my individual work to the ActivePal project for the minor Data Science. 
+In this portfolio you can read all my individual work to the ActivePal project for the minor Data Science. Since I didn't have a background into programming my main focus was to do research work for the project. But since I had alot more fun in programming then I expected you can read more about my learning experience in Python aswell!
 
 In project ActivePal we are trying to help Het Centraal Bureau voor de Statistiek (CBS) with their problem. Currently they experiencing issues with measuring if their target audience has moved for atleast 150 minutes a week while doing moderate physical activity's. At the moment they measure this by manually giving out health surveys but the results of this are not good enough. People seem to be bad at estimating how much time they have spend doing moderate physical activity's. 
 
@@ -230,7 +230,14 @@ Vo2 – Oxygen consumption by breathing spicy. <br />
 ## Data preprocessing
 <details> <summary>Data exploration</summary>
 
-[More Examples](topics/data_preprocessing/data_exploration.md)
+### Introduction
+One of the first steps into the project was to do examine the data to see what we were working with. I have done this by building an information table for myself and writing down what exactly the dataset included. For our project we received two files from CBS. One of the files contained the the lab data and one document contained the weekdata. 
+<details> <summary>Table</summary>
+
+![Images](/Evidence/Data%20explanation.png)
+
+</details>
+In the table you can see all the features that we received. And my personal interpretation of it from the beginning of the project. 
 
 </details>
 
