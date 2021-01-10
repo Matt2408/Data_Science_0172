@@ -235,12 +235,20 @@ One of the first steps into the project was to do examine the data to see what w
 One of the big problems we had when working on the ActivePal project was understanding how G-force works with our dataset. I had the job to examine our dataset and see if I could come up with visualiations that would make the group understand G-force better at the different activities. An example can be read below where I had to find out why g-force would act different at certain corrospondents which caused outliers. 
 
 ![Images](/Evidence/G-force.png) </br>
-In this picture you can see the g-force over time for every corrospondent in the group for the activity standing still. In the literature it's declared that whenever you stand still you have a g-force of 1.0G. So in this case we would expect the plot to show that.
+In this picture you can see the g-force over time for every corrospondent in the group for the activity standing still. In the literature it's declared that whenever you stand still you have a g-force of 1.0G. So in this case we would expect the plot to show that. But instead the following two things can be found in the shown plot. 
+- The accelerator is picking up movement at some of the corrospondents, you can see this by the fluxerating G-force.
+- There are two clear outliers at -1.0G (exactly the opposite of the rest of the group)
+- You can see that some of the corrospondents don't start at 1.0G but instead in the range of 1.0G to 1.3G.
+
+### Early hypothesis
+The small movements that are being picked up by the accelerator can be caused by corrospondents not standing completely still. They could be shuffling and/or doing other movements that being picked up. I think that the negative G-force can be explained by the accelerometer being upside down. If you put the accelerometer upside down this would change the axis and by doing this positive 1.0G would be come negative -1.0G. 
+
+I discussed with the group and CBS how some of the corrospondents are starting at a different value then 1.G (range of 1.0 to 1.3G) but so far this can't be explained.
 </details>
 
 <details> <summary>Data cleaning</summary>
 
-[More Examples](topics/data_preprocessing/data_cleaning.md)
+The dataset that we received from CBS was given in cleaned state. For us this meant that we really couldn't do much. 
 
 </details>
 
@@ -251,19 +259,34 @@ In this picture you can see the g-force over time for every corrospondent in the
 </details>
 
 <details> <summary>Data visualization</summary>
+Before we could make important decisions, like choosing a model, the features and other options. We needed to know what kind of data we were working with. For that reason I started to visualize our current data. The first thing I wanted to try was to see if there was a clear seperation between the different activity's. For that reason I made the following plot.  
 
-[More Examples](topics/data_preprocessing/data_visualization.md)
+![Images](/Evidence/datavisualization_standard_deviation_by_GROUP.png) </br>
+This plot shows the different activity's that we want to use for our models. The first plot shows the X-axis, the second shows the y-axis and the third shows the z-axis. The color indicate the activity. From this plot you can tell that if you use the standard deviation, that you would be able to seperate the different activity's. For that reason we decided that we should include the standard deviation into our models. In the next picture you can see the same plot but instead of groups, you will be able to see every corrospondent against the full group.
+
+
+![Images](/Evidence/datavisualization_standard_deviation_by_GROUP_VS_INDIVUAL.png) </br> 
+With this plot I wanted to see if I could find clear outliers in our dataset. By plotting all corrospondents against the full population it would be come clear who of the corrospondents are far off the standard deviation. An example of this can be seen in the right bottom corner of the plot. 
+
+Link to notebook: https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/all_steps_activity_data_analyse_Matt_v2.ipynb
+
+![Images](/Evidence/G-force.png) </br>
+In this visualization I wanted to show CBS some insights that I had found. The results were suprissing for CBS themself aswell and they were glad that we had found it. 
+
+
+Link to notebook: https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb
 
 </details>
 
-<details> <summary>Data explanation</summary>
 
-<details> <summary>Table</summary>
+<details> <summary>Data explanation</summary>
+One of the first steps in the project was to get known with the data. As a group we decided that everybody should focus the first few days of receiving the data at exploring the data in such a matter that you will understand what we had received. For that reason I decided to make a tabel with every data colomn that we received and write down what exactly we received. Below you can see the table that I had made.
+
 
 ![Images](/Evidence/Data%20explanation.png)
 
-</details>
-In the table you can see all the features that we received. And my personal interpretation of it from the beginning of the project. 
+
+In the table you can see all the features that we received. And my personal interpretation of it from the beginning of the project. The activiteiten.csv has been used for all the models since we needed to label the activity's. The vyntus.csv has not been used since we didn't have a ground truth to fall back to. The activPal dataset was our main dataset that was being used for all the models. It was cleaned prior by CBS and we could dive into it straight away. 
 
 </details>
 
