@@ -296,7 +296,7 @@ The dataset that we received from CBS was given in cleaned state. For us this me
 
 </details>
 
-<details> <summary>Data preparation [TODO]</summary>
+<details> <summary>Data preparation</summary>
 Data preparation is a very broad aspect of machine learning. In this chapter I will show you what I have done to make sure that the data was ready to be used in an efficient way in the models. Below you can read about the subjects I worked on.
 
 
