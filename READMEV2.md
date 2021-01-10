@@ -318,14 +318,9 @@ x = sel.fit_transform(x)
 One of the things I had read in papers were to test out if it would be benefitical to use the following two features: Standard deviation and mean. For that reason I had written the following code:
 
 ````python
+
                 stdev_x =  statistics.stdev(activpal_segment['x']) if len(activpal_segment['pal_accX']) >= 2 else 0
                 mean_x = activpal_segment['pal_accX'].mean()
-
-                stdev_y =  statistics.stdev(activpal_segment['pal_accY']) if len(activpal_segment['pal_accY']) >= 2 else 0
-                mean_y = activpal_segment['pal_accY'].mean()
-
-                stdev_z =  statistics.stdev(activpal_segment['pal_accZ']) if len(activpal_segment['pal_accZ']) >= 2 else 0
-                mean_z = activpal_segment['pal_accZ'].mean()  
 
 ````
 </details>
@@ -347,8 +342,8 @@ for column in fill_na_columns :
 <details> <summary>RFE (TODO)</summary>
 
 </details>
+</details>
 
---- 
 
 <details> <summary>Data visualization</summary>
 Before we could make important decisions, like choosing a model, the features and other options. We needed to know what kind of data we were working with. For that reason I started to visualize our current data. The first thing I wanted to try was to see if there was a clear seperation between the different activity's. For that reason I made the following plot.  
