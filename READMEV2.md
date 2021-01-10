@@ -84,15 +84,59 @@ Examples of real actionpoints are:
 
 
 ### Conclusions
-<details> <summary>Conclusions</summary>
-For the conclusion of our research we had decided to divide this into two parts. One scientific conclusion that I helped to write together with Colin and Adnan. I was able to give them clear directions after they wrote the first iteration. After the directions, they asked for help so the second iteration was written by Me, Adnan and Colin.
+In this chapter I will go over the final conclusions of the ActivePal project. I have seperated the conclusions into multiple sections that you can read below. 
 
-Since I had a clear understanding of the conclusion, we decided that I would contact CBS and their colleagues to explain our results. You can find the document in which I explain our project conclusions to CBS.
-<br />
+<details> <summary>MET prediction model</summary>
+With our projectgroup we made alot of MET predictions models. We tried various models to see which would give the best results for predicting the MET values. At the first glance the results of the models all looked very promissing. We really thought that we made amazing models until we validated our results with the test set. After the last run with the test set we came to the conclusions that our models were overfitting. You can read the reasons why I think that they are overfitting in the section Evaluation. 
+</details>
 
-Click [here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)<br />
+--- 
+
+<details> <summary>Activity Recognition model</summary>
+To understand the end conclusion it's important to know how we got there. To do so I will briefly explain the work of Adnan Akbas, he personally programmed the activity recognition model alone, with the groups input. The results of his model can be found below: 
+
+
+
+| |Cross Validation|
+|------------|---------|
+|Accuracy|0.82|
+|Recall|0.84|
+|Precision|0.82|
+
+As you can read in the table, his activity recognition is able to get high final scores after the cross validation. After this model was finished we were able to combine both activity recognition model and the MET prediction model (intensity model) to write our final verdict on the research question.
 
 </details>
+
+--- 
+
+<details> <summary>Research questions</summary>
+
+> <b> How can Machine Learning be used to determine whether people did their 150 minutes of moderate activity in ActivPal accelerometer data of an entire week? </b>
+By first doing an activity reconigzion prediction on your dataset you are able to predict what kind of activities were done. As seen in our activity recogniztion model it can accurately predict whenever somebody for example is running. Every activity has a standard MET value. By using a seperate model to determine the intensity of an activity (the MET value used in our case) you are able  to calculate if a person did their 150 minutes of moderate activity.  
+
+However the accuratie depends on the dataset. If there isn't enough data as seen in our research, there is a big chance on overfitting. You can see my thoughs about this in the next chapter (Evaluation)
+
+</details>
+
+--- 
+
+<details> <summary>Email to CBS with conclusions</summary>
+Hieronder leest u de algemene conclusie die ik heb geschreven (namens de groep) die wij hebben gestuurd naar CBS. In deze conclusie leest CBS over de algemene resultaten die hebben wij gevonden. Deze conclusie is gestuurd naar de overige overdrachtsdocumenten zoals bijvoorbeeld de notebooks. 
+
+Machine learning kan worden ingezet om te voorspellen of een persoon zijn zijn/haar 150 minuten of matige lichamelijke activiteit heeft uitgevoerd. Dit kan worden voorspelt doormiddel van een combinatie van twee verschillende modellen. Ten eerste zal een activiteiten herkenning model moeten worden uitgevoerd op de weekdata. Dit model voorspelt doormiddel van verschillende features welke activiteit door de persoon werd uitgevoerd. Binnen het project hebben wij ervoor gekozen om een random forest model te gebruiken om de activiteiten te voorspellen. Bij deze voorspelling is ervoor gekozen om de activiteiten springen en traplopen niet mee te nemen omdat hiervoor geen lab data aanwezig was (vyntus data) en om deze reden ook geen ground truth voor de MET values. 
+Nadat de activiteit is voorspelt, komt er een tweede model in het gebruik. Doormiddel van een model dat per activiteit een MET waarde kan voorspelt, is het mogelijk om de intensiviteit van een activiteit te bereken. Voor het voorspellen van de MET waarde, is er gekozen voor twee verschillende modellen waar de resultaten vrij dicht bij elkaar liggen. Namelijk een random forest model en een XGBoost model. Voor het berekenen van de MET waarde, is ervoor gekozen om deze te bereken per minuut zoals aangegeven in de literatuur. 
+Een combinatie van de activiteiten voorspelling en de MET waarde voorspelling maakt het mogelijk om te voorspellen of een persoon zijn/haar 150 minuten of matige lichamelijke activiteiten heeft uitgevoerd binnen de weekdata. Om dit zo goed mogelijk te illustreren hebben wij een applicatie gebouwd waarin de modellen daadwerkelijk worden toegepast op de weekdata. Een illustratie van de applicatie ziet u hieronder.  In dit voorbeeld is voor één van de gebruikers binnen de dataset een overzicht gemaakt van één dag d.m.v onze modellen. 
+
+![Images](/Evidence/Applicatie%201%20week.png)
+
+Met de modellen en de applicatie tonen wij aan op welke wijze machine learning kan worden ingezet om te voorspellen of personen hun 150 minuten van matige lichamelijke activiteiten heeft uitgevoerd. 
+
+</details>
+
+
+--- 
+
+
 
 ### Evaluation
 <details> <summary>Evaluation</summary>
