@@ -228,17 +228,14 @@ Vo2 – Oxygen consumption by breathing spicy. <br />
 </details>
 
 ## Data preprocessing
+One of the first steps into the project was to do examine the data to see what we were working with. I have done this by building an information table for myself and writing down what exactly the dataset included. For our project we received two files from CBS. One of the files contained the the lab data and one document contained the weekdata. You can read more about this in data explanation. 
 <details> <summary>Data exploration</summary>
 
 ### Introduction
-One of the first steps into the project was to do examine the data to see what we were working with. I have done this by building an information table for myself and writing down what exactly the dataset included. For our project we received two files from CBS. One of the files contained the the lab data and one document contained the weekdata. 
-<details> <summary>Table</summary>
+One of the big problems we had when working on the ActivePal project was understanding how G-force works with our dataset. I had the job to examine our dataset and see if I could come up with visualiations that would make the group understand G-force better at the different activities. An example can be read below where I had to find out why g-force would act different at certain corrospondents which caused outliers. 
 
-![Images](/Evidence/Data%20explanation.png)
-
-</details>
-In the table you can see all the features that we received. And my personal interpretation of it from the beginning of the project. 
-
+![Images](/Evidence/G-force.png) </br>
+In this picture you can see the g-force over time for every corrospondent in the group for the activity standing still. In the literature it's declared that whenever you stand still you have a g-force of 1.0G. So in this case we would expect the plot to show that.
 </details>
 
 <details> <summary>Data cleaning</summary>
@@ -259,6 +256,16 @@ In the table you can see all the features that we received. And my personal inte
 
 </details>
 
+<details> <summary>Data explanation</summary>
+
+<details> <summary>Table</summary>
+
+![Images](/Evidence/Data%20explanation.png)
+
+</details>
+In the table you can see all the features that we received. And my personal interpretation of it from the beginning of the project. 
+
+</details>
 
 ## Predictive Analytics
 
