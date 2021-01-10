@@ -246,13 +246,13 @@ The small movements that are being picked up by the accelerator can be caused by
 I discussed with the group and CBS how some of the corrospondents are starting at a different value then 1.G (range of 1.0 to 1.3G) but so far this can't be explained.
 </details>
 
-<details> <summary>Data cleaning</summary>
+<details> <summary>Data cleaning [TO DO]</summary>
 
 The dataset that we received from CBS was given in cleaned state. For us this meant that we really couldn't do much. 
 
 </details>
 
-<details> <summary>Data preparation</summary>
+<details> <summary>Data preparation [TODO]</summary> 
 
 [More Examples](topics/data_preprocessing/data_preparation.md)
 
@@ -290,7 +290,7 @@ In the table you can see all the features that we received. And my personal inte
 
 </details>
 
-## Predictive Analytics
+## Predictive Analytics [TO DO]
 
 <details> <summary>selecting a model</summary>
 
