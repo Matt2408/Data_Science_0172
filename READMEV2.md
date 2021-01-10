@@ -358,18 +358,21 @@ At the beginning of every sprint, we would decide who would give the next upcomi
 
 ### Paper
 As a group we decided that everybody would work on the paper. To make this possible we used the same method as prior documents. First we would devide the paper into certain topics and devide those topics between the group members and everytime somebody would finish their first iteration of the subject then one of the group members would review their work and make a second iteration of the subject. By doing this everybody would be able to give their opinion about the subjects of the paper and you are able to write a very compact paper with the 
-thoughts of five groupmembers. 
+thoughts of five group members. 
 
 For writing the paper I had the following tasks to finish. I excluded giving feedback in this, since I would go over every iteration to give feedback to the group.
 
 - Writing the discussion V1
 - Writing the discussion V2**
 - I wrote introduction V3**
+- I wrote the final feedback on introduction V4
 - I wrote study design V3**
-
+- I wrote the abstract V1 in cooperation
+- I worked on the design V1, V2 in cooperation
+- I spend a lot of time reviewing and giving feedback
 
 ** = iteration based on feedback/comments from group members.
-
+V = Version
 
 
 
