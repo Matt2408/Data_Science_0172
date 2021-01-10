@@ -340,6 +340,19 @@ for column in fill_na_columns :
 </details>
 
 <details> <summary>RFE (TODO)</summary>
+To make sure that the model isn't going to be using redundant features I wanted to write code to use RFE on the dataframe. The following code applies RFE to the dataset and takes the best six features and uses that in the model. I been experimenting with this, so what I did was different configurations. The end result can be read below:
+
+````python
+rfe = RFE(estimator=DecisionTreeClassifier(), n_features_to_select=6)
+model = DecisionTreeClassifier()
+pipeline = Pipeline(steps=[('s',rfe),('m',model)])
+
+cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
+n_scores = cross_val_score(pipeline, x, y, scoring='accuracy', cv=cv, n_jobs=-1, error_score='raise')
+
+# report performance
+print('Accuracy: %.3f (%.3f)' % (mean(n_scores), std(n_scores)))
+````
 
 </details>
 </details>
