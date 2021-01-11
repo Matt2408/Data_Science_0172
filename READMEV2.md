@@ -88,9 +88,11 @@ In this chapter I will go over the final conclusions of the ActivePal project. I
 
 <details> <summary>MET prediction model</summary>
 With our projectgroup we made alot of MET predictions models. We tried various models to see which would give the best results for predicting the MET values. At the first glance the results of the models all looked very promissing. We really thought that we made amazing models until we validated our results with the test set. After the last run with the test set we came to the conclusions that our models were overfitting. You can read the reasons why I think that they are overfitting in the section Evaluation. 
-</details>
 
 --- 
+
+</details>
+
 
 <details> <summary>Activity Recognition model</summary>
 To understand the end conclusion it's important to know how we got there. To do so I will briefly explain the work of Adnan Akbas, he personally programmed the activity recognition model alone, with the groups input. The results of his model can be found below: 
@@ -105,9 +107,10 @@ To understand the end conclusion it's important to know how we got there. To do 
 
 As you can read in the table, his activity recognition is able to get high final scores after the cross validation. After this model was finished we were able to combine both activity recognition model and the MET prediction model (intensity model) to write our final verdict on the research question.
 
+--- 
+
 </details>
 
---- 
 
 <details> <summary>Research questions</summary>
 
@@ -116,9 +119,9 @@ By first doing an activity reconigzion prediction on your dataset you are able t
 
 However the accuratie depends on the dataset. If there isn't enough data as seen in our research, there is a big chance on overfitting. You can see my thoughs about this in the next chapter (Evaluation)
 
-</details>
-
 --- 
+
+</details>
 
 <details> <summary>Email to CBS with conclusions</summary>
 Hieronder leest u de algemene conclusie die ik heb geschreven (namens de groep) die wij hebben gestuurd naar CBS. In deze conclusie leest CBS over de algemene resultaten die hebben wij gevonden. Deze conclusie is gestuurd naar de overige overdrachtsdocumenten zoals bijvoorbeeld de notebooks. 
@@ -131,10 +134,10 @@ Een combinatie van de activiteiten voorspelling en de MET waarde voorspelling ma
 
 Met de modellen en de applicatie tonen wij aan op welke wijze machine learning kan worden ingezet om te voorspellen of personen hun 150 minuten van matige lichamelijke activiteiten heeft uitgevoerd. 
 
+--- 
+
 </details>
 
-
---- 
 
 
 
