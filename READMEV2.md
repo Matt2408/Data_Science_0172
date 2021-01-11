@@ -500,10 +500,20 @@ print('Accuracy: %.3f (%.3f)' % (mean(n_scores), std(n_scores)))
 
 
 <details> <summary>Features for model complexity </summary>
+I have created new features to make sure that the complexitiy of the model increased. By doing this I prevented underfitting. 
+
+````python
+                stdev_x =  statistics.stdev(activpal_segment['x']) if len(activpal_segment['pal_accX']) >= 2 else 0
+                mean_x = activpal_segment['pal_accX'].mean()
+````
 
 </details>
 
 <details> <summary>Outliers / data verification</summary>
+One of the issues that can occur is under/overfitting by outerliers. To prevent this from happening I have been looking into the data to see if any outlier removal was necessary. Below you can the plots that I have used.
+
+![Images](/Evidence/G-force.png) </br>
+![Images](/Evidence/datavisualization_standard_deviation_by_GROUP_VS_INDIVUAL.png)</br>
 
 </details>
 
