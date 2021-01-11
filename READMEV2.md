@@ -478,7 +478,7 @@ Funny sidenote: Since my configuration is being optimized by trying ALOT of comb
 
 </details>
 
-<details> <summary>Training model [TODO]</summary>
+<details> <summary>Training model</summary>
 To prevent under/over fitting on the model I used the following methodes to prevent this: 
 
 <details> <summary>Feature selection by RFE</summary>
@@ -521,9 +521,8 @@ One of the issues that can occur is under/overfitting by outerliers. To prevent 
 
 </details>
 
-<details> <summary>evaluating a model [TODO]</summary>
-
-[More Examples](topics/data_preprocessing/evaluating_a_model.md)
+<details> <summary>Evaluating a model [TODO]</summary>
+The evaluation has been done after 
 
 
 
@@ -532,8 +531,32 @@ One of the issues that can occur is under/overfitting by outerliers. To prevent 
 </details>
 
 <details> <summary>Visualizing the outcome of a model</summary>
+This part of the chapter shows the results of the XGboost prediction model. 
 
-[More Examples](topics/data_preprocessing/visualizing_the_outcome_of_a_model.md)
+<details> <summary>Features used</summary>
+In this chapter you can read the final features used in the model:
+
+sum_mag_acc', 'weight_kg', 'length_cm', 'bmi', 'age_category',
+       'meets_balance_guidelines', 'meets_activity_guidelines',
+       'estimated_level', 'mean_speed
+
+</details>
+
+<details> <summary>Tabel with results</summary>
+
+| Score measurement  | Score |
+| ------------- | ------------- |
+| Mean squared error  | 0.3509541156530997  |
+| R2 score  | 0.7206589524175355  |
+
+</details>
+
+<details> <summary>Ground truth vs Prediction</summary>
+This plot shows the Ground Truth against the prediction. By reading this plot you can see how accurate the model is against the ground truth.
+
+![Images](/Evidence/Results.png)
+</details>
+
 
 ---
 
