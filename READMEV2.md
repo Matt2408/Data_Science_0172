@@ -522,7 +522,7 @@ One of the issues that can occur is under/overfitting by outerliers. To prevent 
 </details>
 
 <details> <summary>Evaluating a model [TODO]</summary>
-The evaluation has been done after 
+
 
 
 
