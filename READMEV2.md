@@ -404,9 +404,9 @@ I had chosen to build the XGBoost model because it's very similar to our Random 
 APA: </br>
 A. Ogunleye and Q. -G. Wang, "XGBoost Model for Chronic Kidney Disease Diagnosis," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 17, no. 6, pp. 2131-2140, 1 Nov.-Dec. 2020, doi: 10.1109/TCBB.2019.2911071.
 
-</details>
-
 ---
+
+</details>
 
 <details> <summary>Configuring a model</summary>
 For the configuring of the model I took a different approach then most of my group members. I wanted to build a heavy model that would generate multiple models and select the best configuration based on the model score. The following configurations are automaticly chosen by the model by iterating:
@@ -474,9 +474,9 @@ Below you can read the code used to get the optimal model:
 
 Funny sidenote: Since my configuration is being optimized by trying ALOT of combinations. It takes alot of power to find the best model.
 
-</details>
-
 ---
+
+</details>
 
 <details> <summary>Training model [TODO]</summary>
 To prevent under/over fitting on the model I used the following methodes to prevent this: 
@@ -515,11 +515,17 @@ print('Accuracy: %.3f (%.3f)' % (mean(n_scores), std(n_scores)))
 
 [More Examples](topics/data_preprocessing/evaluating_a_model.md)
 
+
+
+---
+
 </details>
 
 <details> <summary>Visualizing the outcome of a model</summary>
 
 [More Examples](topics/data_preprocessing/visualizing_the_outcome_of_a_model.md)
+
+---
 
 </details>
 
