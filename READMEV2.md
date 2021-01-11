@@ -688,7 +688,12 @@ Within this Minor I have been doing Data Camp to learn more about Data Science. 
 </br></br>
 <b>R</b>esult:</br>I am very glad with the results we made as a group. Together we all worked very hard. Not everybody was working on exactly the same speed but almost everybody contributed in such matter that we made progress. Looking back at myself I think I can still get better at taking up advice and really doing something with it. Sometimes I can be stubborn and try to fix it myself instead of asking help. Another lesson I like to take with me is trying more to make everybody feel more welcome even if they don't feel like that way or are very unmotivated. To come to a conclusion: I think I definitly showed the group what I am capable off and that I really wanted to succeed. My contribution definitly helped the project to come to the result we came.
 </br></br>
-<b>R</b>esult:</br>
+
+<b>R</b>eflection:</br> I really think I did enough work. In future projects I should be on time more often since sometimes I could be 2-3 minutes late (which is really annoying but mostly caused by Corona). Other then that I think everything went quite well.
+
+
+---
+
 </details>
 
 
@@ -703,7 +708,12 @@ Within this Minor I have been doing Data Camp to learn more about Data Science. 
 
 </br><b>A</b>ction:</br> To make sure that I really progressed in the objectives I did the following. From the start of the project I stated that I wanted to give as many presentations as possible. This is something I been dealing with for a while and I really want to become better at it. In total I gave 7 presentations in English. So that was really cool but challenging. For learning Python I decided that I would do all objectives to reach 100% in Datacamp. To make sure that I was more social in the project, I would stay longer in the chats, even if we were done and it was just casual talk. For taking the lead I wanted to come forward more often. I think this is still work in progress, I think it's very hard for me to do so. 
 </br></br><b>R</b>esult:</br> Looking back at those tasks, I really think I did a good job. I wasn't able to succeed them all. One of the tasks I wasn't able to succeed is about taking the lead more often. In the project I saw myself not taking the lead as much as I wanted to. But instead I did come forward way more often with my idea's and how they could be benefical to the project. However I didnt learn as much about Artificial Intelligence (AI) as I hoped, maybe this is caused by the minor being so much different then I expected. 
-If I look at the first task, about learning Python. I definitly can say that I learned alot while working on the ActivePal project. Learning Python was really fun but challenging, I  really liked the freedom that we gotten and that we were able to learn Python in our own speed. Another point that I worked on really hard on was giving presentation in English. It's something I had never done before, so that a really fun experience. Last but not least, the objective about being more social. I feel like I definitly was more social while working on this Minor. Maybe this was caused by the Corona crisis that forced us to do it online.  Either way it gave me a great opportunity to make new friends. 
+If I look at the first task, about learning Python. I definitly can say that I learned alot while working on the ActivePal project. Learning Python was really fun but challenging, I  really liked the freedom that we gotten and that we were able to learn Python in our own speed. Another point that I worked on really hard on was giving presentation in English. It's something I had never done before, so that a really fun experience. Last but not least, the objective about being more social. I feel like I definitly was more social while working on this Minor. Maybe this was caused by the Corona crisis that forced us to do it online.  Either way it gave me a great opportunity to make new friends.
+
+<b>R</b>eflection:</br> I think I did a great job at trying to learn more about my learning objectives. I am glad that I tried to learn Python since it was challenging but very rewarding. In the future I might want to start earlier with really going after my objectives instead of later on in the project when we have more spare time.
+
+---
+
 </details>
 
 <details> <summary>Evaluation on the group project as a whole</summary> 
@@ -713,5 +723,10 @@ If I look at the first task, about learning Python. I definitly can say that I l
 
 </br><b>A</b>ction:</br> Whenever the project didn't go as smooth as planned, we would come together and discuss the issues. One of the problems we had would be that some group members were not motivated enough. Because of this the progress got slowed down. To make sure that we would still succeed we decided that we would meet more often and talk to each other multiple times a day. By having good communication we were able to change our work style and get better results. 
 </br></br><b>R</b>esult:</br>I am really glad with the end results that we got. We started with six but ended with five. Dimitri was a nice guy to work with but Machine Learning just wasn't his thing. I think for the most part of the project I had alot of fun and was able to easily work together with most of the team. Alot of us really want to work hard and come forward with the best results possible but it was a hard journey. We didn't always exactly knew what was expected and since we were all new to Machine Learning it wasn't always easy. If I look back at the complete picture of the project. I am glad, very glad that I have choosen this Minor. 
+
+<b>R</b>eflection:</br>Looking back at the project I had great fun and learned alot. I worked hard and wanted to succeed. In furtere project I could ask for help more often, and try to see more often where I can easily help somebody. 
+
+---
+
 </details>
 
