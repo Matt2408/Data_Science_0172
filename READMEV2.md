@@ -395,19 +395,123 @@ In the table you can see all the features that we received. And my personal inte
 
 ## Predictive Analytics [TO DO]
 
-<details> <summary>selecting a model</summary>
+<details> <summary>Selecting a model</summary>
+Since my tasks in the project group wasn't focused on building a model, it caused that I started very late with building the first model. For that reason most of the models were already used. Instead of building no model, I still wanted to test my Python skills to see if I was able to fit atleast a model to show in the portfolio. Below you can read my journey!
 
-[More Examples](topics/data_preprocessing/selecting_a_model.md)
+### XGBoost
+I had chosen to build the XGBoost model because it's very similar to our Random Forest model. The XGBoost model is an ensembled decision tree model that is known for their low variance and biased results. I came to the conclusion to use XGboost since it was well explained in the following paper: XGBoost Model for Chronic Kidney Disease Diagnosis. For this reason I wanted to try out the model to predict the MET value. 
+
+APA: </br>
+A. Ogunleye and Q. -G. Wang, "XGBoost Model for Chronic Kidney Disease Diagnosis," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 17, no. 6, pp. 2131-2140, 1 Nov.-Dec. 2020, doi: 10.1109/TCBB.2019.2911071.
 
 </details>
 
-<details> <summary>training model</summary>
+---
 
-[More Examples](topics/data_preprocessing/training_model.md)
+<details> <summary>Configuring a model</summary>
+For the configuring of the model I took a different approach then most of my group members. I wanted to build a heavy model that would generate multiple models and select the best configuration based on the model score. The following configurations are automaticly chosen by the model by iterating:
+
+- RFE for feature selection
+- The amount of trees
+- A combination of the above. It will try out every combination and see what combination of trees/features work the best (in a single model) and tries all combinations.
+
+
+Below you can see the code used to get the optimal amount of trees:
+
+````python
+def get_optimal_amount_trees(x, y, max_number_of_trees = 100):
+    r2_score_list = {}
+    
+    train_X, valid_X, train_y, valid_y = train_test_split(x, y, test_size=0.2, random_state=0)
+
+    for i in range(1, max_number_of_trees + 1, 1):
+        xgb_r = xgb.XGBRegressor(objective ='reg:linear', n_estimators = i, random_state = 0, verbosity = 0)
+        xgb_r.fit(train_X, train_y)
+        pred = xgb_r.predict(valid_X)
+
+        optimal_r2_score = r2_score(valid_y, pred)
+        r2_score_list[i] = optimal_r2_score
+
+    return  max(r2_score_list, key=r2_score_list.get)
+````
+
+Below you can read the code used to get the optimal model: 
+
+````python
+    for i in range(1, max_number_of_features + 1):
+        print("iteration: ",i)
+        rfe = RFE(estimator=XGBR, n_features_to_select=i, step=1)
+        rfe = rfe.fit(X_train, y_train)
+        temp_best_features = X_train.columns[rfe.support_]
+        
+        X = all_df[temp_best_features]
+        y = all_df['mean_met']
+        
+        ## Training the new model with best features
+        train_X, valid_X, train_y, valid_y = train_test_split(X, y, test_size=0.2, random_state=0)
+        
+        best_amount_trees = get_optimal_amount_trees(train_X, train_y, 200)
+        
+        xgb_r = xgb.XGBRegressor(objective ='reg:linear', n_estimators = best_amount_trees, random_state = 0, verbosity = 0)
+        
+        ## final model
+        xgb_r.fit(train_X, train_y)
+        pred = xgb_r.predict(valid_X)
+        
+        #score = r2_score(valid_y, pred)
+        score = np.sqrt(MSE(valid_y, pred)) 
+
+        
+        print('features: ', temp_best_features, ' r2: ', r2_score(valid_y, pred), ' mse: ', score )
+
+        #   if score > best_r2_score:
+        if score < best_mse_score:
+            best_r2_score  = r2_score(valid_y, pred)
+            best_mse_score = score
+            best_model     = xgb_r
+            best_features  = temp_best_features
+````
+
+Funny sidenote: Since my configuration is being optimized by trying ALOT of combinations. It takes alot of power to find the best model.
 
 </details>
 
-<details> <summary>evaluating a model</summary>
+---
+
+<details> <summary>Training model [TODO]</summary>
+To prevent under/over fitting on the model I used the following methodes to prevent this: 
+
+<details> <summary>Feature selection by RFE</summary>
+I used RFE to choose the best features for the model. I have chosen for RFE since it looks at the best features that give the best results in your model. By doing this unnecessary features get removed that could impact the model in a negative matter.  
+
+````python
+rfe = RFE(estimator=DecisionTreeClassifier(), n_features_to_select=6)
+model = DecisionTreeClassifier()
+pipeline = Pipeline(steps=[('s',rfe),('m',model)])
+
+cv = RepeatedStratifiedKFold(n_splits=10, n_repeats=3, random_state=1)
+n_scores = cross_val_score(pipeline, x, y, scoring='accuracy', cv=cv, n_jobs=-1, error_score='raise')
+
+# report performance
+print('Accuracy: %.3f (%.3f)' % (mean(n_scores), std(n_scores)))
+````
+
+</details>
+
+
+<details> <summary>Features for model complexity </summary>
+
+</details>
+
+<details> <summary>Outliers / data verification</summary>
+
+</details>
+
+---
+
+</details>
+
+<details> <summary>evaluating a model [TODO]</summary>
 
 [More Examples](topics/data_preprocessing/evaluating_a_model.md)
 
@@ -419,11 +523,6 @@ In the table you can see all the features that we received. And my personal inte
 
 </details>
 
-<details> <summary>configuring a model</summary>
-
-[More Examples](topics/data_preprocessing/configuring_a_model.md)
-
-</details>
 
 ## Communication
 Within our project we decided that one member of the project team would take the roll of the communicater. The communicater roll had to do:
