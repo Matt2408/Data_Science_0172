@@ -141,13 +141,52 @@ Met de modellen en de applicatie tonen wij aan op welke wijze machine learning k
 
 
 
-### Evaluation [TO DO]
+### Evaluation
 <details> <summary>Evaluation</summary>
-For my contrubtion to the evaluation, you can look at two different contributions that I worked the most on. 
+In this chapter you can read about the future directions for CBS. You can read those directions in short below or you can read it in the other project related documents that I have written.
 
-- Personally I think that our discussion (that I wrote the first big iteration) has some good examples of our weaknesses of the project.
-- Conclusions to CBS. This is the a different chapter in the document that was send over to CBS at the handover of the project related documents. In this document I wrote advice to CBS and explained the issues we had researching the topic. 
-Click [here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)<br />
+
+
+<details> <summary>Clear target audience</summary>
+In the beginning of the project, the group decided that we would examine the data. When we did this, we found out that the current target audience existed of respondents with the age 18 to 91. But the amount of data availible was very limited for such large audience. For that reason I like to advice CBS to in the further have a better understanding what audience you exactly want to measure. Because in our project we had to remove respondents since they wasn't enough data for that audiance or they were far of the standard deviation. 
+
+---
+
+</details>
+
+<details> <summary>More data</summary>
+One of the big issues in this project was the amount of data. Since our target audience was really big and included all ages. We had only very small amount of training data for the whole target audiance. This causes bias towards the most representing class. In the future we would love to see more data availible to solve this issue. 
+
+This would also mean that there would be more data available for the MET calcuations.  
+
+---
+
+</details>
+
+<details> <summary>Advice about further work to CBS email</summary>
+One of the things I made was the handover email to CBS. In this email we written our conclusions and advice to CBS. I personally made this email and send this over to CBS.
+
+You can read this in the following document: [Click here for the document](/Evidence/Research%20Project/Conclusions%20to%20CBS.pdf)<br />
+
+---
+
+</details>
+
+<details> <summary>Discussion in paper</summary>
+This chapter is all about the evaluation and further directions for CBS. With the project group we decided that I would write the discussion in the paper. This means that I talk about the weaknesses of our project and how CBS can work in the future with our work. 
+
+<details> <summary>Paper discussion</summary>
+The present study found out that, it’s not possible to identify if a respondent has reached their 150 minutes of the recommended moderate insane physical activity in a week by using the dataset supplied by CBS. Certain activities can’t be recognized, and this causes that not all MET values can be calculated for each activity.  
+
+The results might suggest that it’s not possible to identify if a respond has done their weekly activities at all. However, based on the findings of similar studies, a more plausible explanation is that the dataset used in this research didn’t contain enough data for every activity to train a model to recognize this.  
+
+In this study there are a few limitations that have hold back the results of this study. One of the biggest limitations is the amount of data used to make predictions. In total there were X subjects because the number of subjects was so small, the model couldn’t fit the data which caused it too overfit. For future research it should be recommended to increase the number of subjects or the size of the data for each activity. The second limitation is the calculation of speed. In this research the speed calculation did not get calibrated, since the results without calibration were a lot better and it was concluded that the activPAL accelerometer did not calibrate either. For that reason, the reasoning of activPAL got followed and the speed calculation didn’t get calibrated.  
+
+</details>
+
+---
+
+</details>
 
 
 </details>
@@ -359,6 +398,17 @@ print('Accuracy: %.3f (%.3f)' % (mean(n_scores), std(n_scores)))
 
 </details>
 
+
+
+<details> <summary>Syncretizing the main dataframe</summary>
+Together with Colin, I have been working on merging all our dataframes into one notebook. By doing so everybody is able to include the same dataset in their models. Prior to this we had issues with validating the results since everybody had their own way of setting up their model dataframe. 
+
+My contrubution to the collaboration with Colin was being the person that was writing the code. He was the one that was assisting me with the code itself and the thought process.
+
+Link to notebook: https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Creating%20main%20dataframe%20(containing%20all%20data).ipynb
+
+</details>
+
 ---
 
 </details>
@@ -396,7 +446,7 @@ In the table you can see all the features that we received. And my personal inte
 
 </details>
 
-## Predictive Analytics [TO DO]
+## Predictive Analytics
 
 <details> <summary>Selecting a model</summary>
 Since my tasks in the project group wasn't focused on building a model, it caused that I started very late with building the first model. For that reason most of the models were already used. Instead of building no model, I still wanted to test my Python skills to see if I was able to fit atleast a model to show in the portfolio. Below you can read my journey!
@@ -592,11 +642,11 @@ At the beginning of every sprint, we would decide who would give the next upcomi
 - Internal presentations that I gave
   - [Internal Presentation 2](/Evidence/Presentations/Internal%20Presentations%20%232.pdf)
   - [Internal Presentation 8](/Evidence/Presentations/Internal%20Presentation%20%238_Matt.pdf)
-  - [Internal Presentation 15]()
+  - [Internal Presentation 13](https://teams.microsoft.com/l/file/D0BF429E-02A8-4673-A489-45D7E4397ED2?tenantId=a2586b9b-f867-4b3c-9363-5b435c5dbc45&fileType=pptx&objectUrl=https%3A%2F%2Fdehaagsehogeschool.sharepoint.com%2Fsites%2FAppliedDataScience_groups-ActivePal%2FGedeelde%20documenten%2FActivePal%2FPresentations%2FExternal%20Presentation%20%2313%20-%20Matthew.pptx&baseUrl=https%3A%2F%2Fdehaagsehogeschool.sharepoint.com%2Fsites%2FAppliedDataScience_groups-ActivePal&serviceName=teams&threadId=19:00f809aeb3ab456ca0c8557806c14993@thread.tacv2&groupId=c8e7435b-82a6-423f-a66a-96dac64e1ee2)
 - External presentations that I gave
   - [External Presentation 3](/Evidence/Presentations/External%20Presentation%20%2313%20-%20Matthew.pptx)
-  - [External Presentation 4]()
-  - [External Presentation 5]()  
+  - [External Presentation 13](https://teams.microsoft.com/l/file/D0BF429E-02A8-4673-A489-45D7E4397ED2?tenantId=a2586b9b-f867-4b3c-9363-5b435c5dbc45&fileType=pptx&objectUrl=https%3A%2F%2Fdehaagsehogeschool.sharepoint.com%2Fsites%2FAppliedDataScience_groups-ActivePal%2FGedeelde%20documenten%2FActivePal%2FPresentations%2FExternal%20Presentation%20%2313%20-%20Matthew.pptx&baseUrl=https%3A%2F%2Fdehaagsehogeschool.sharepoint.com%2Fsites%2FAppliedDataScience_groups-ActivePal&serviceName=teams&threadId=19:00f809aeb3ab456ca0c8557806c14993@thread.tacv2&groupId=c8e7435b-82a6-423f-a66a-96dac64e1ee2)
+  - [External Presentation 18](https://teams.microsoft.com/l/file/6D656C3E-70BE-495C-837B-347654AA1859?tenantId=a2586b9b-f867-4b3c-9363-5b435c5dbc45&fileType=pptx&objectUrl=https%3A%2F%2Fdehaagsehogeschool.sharepoint.com%2Fsites%2FAppliedDataScience_groups-ActivePal%2FGedeelde%20documenten%2FActivePal%2FPresentations%2FExternal%20Presentation%20%2318%20-%20.pptx&baseUrl=https%3A%2F%2Fdehaagsehogeschool.sharepoint.com%2Fsites%2FAppliedDataScience_groups-ActivePal&serviceName=teams&threadId=19:00f809aeb3ab456ca0c8557806c14993@thread.tacv2&groupId=c8e7435b-82a6-423f-a66a-96dac64e1ee2)  
     
 </details>
 
@@ -606,13 +656,14 @@ thoughts of five group members.
 
 For writing the paper I had the following tasks to finish. I excluded giving feedback in this, since I would go over every iteration to give feedback to the group.
 
+- I build the first template of the paper. This was later iterated on by Mark and Adnan.
+- I helped with the designing of the paper
 - Writing the discussion V1
 - Writing the discussion V2**
 - I wrote introduction V3**
-- I wrote the final feedback on introduction V4
 - I wrote study design V3**
-- I wrote the abstract V1 in cooperation
-- I worked on the design V1, V2 in cooperation
+- I wrote the abstract V1 in cooperation with the group
+- I worked on the design V1 in cooperation, design V2
 - I spend a lot of time reviewing and giving feedback
 
 ** = iteration based on feedback/comments from group members.
@@ -636,6 +687,8 @@ Within this Minor I have been doing Data Camp to learn more about Data Science. 
 <b>A</b>ction:</br>Whenever I had trouble with a task or couldn't go forward. I would take reach out on teams or talk about my issues in the daily standups. By communicating exactly what I was up to and the troubles I had. I could get helped easily.
 </br></br>
 <b>R</b>esult:</br>I am very glad with the results we made as a group. Together we all worked very hard. Not everybody was working on exactly the same speed but almost everybody contributed in such matter that we made progress. Looking back at myself I think I can still get better at taking up advice and really doing something with it. Sometimes I can be stubborn and try to fix it myself instead of asking help. Another lesson I like to take with me is trying more to make everybody feel more welcome even if they don't feel like that way or are very unmotivated. To come to a conclusion: I think I definitly showed the group what I am capable off and that I really wanted to succeed. My contribution definitly helped the project to come to the result we came.
+</br></br>
+<b>R</b>esult:</br>
 </details>
 
 
