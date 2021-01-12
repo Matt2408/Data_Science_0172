@@ -6,6 +6,11 @@ Lecturers: Jeroen Vuurens, Gerda in 't Veld, Tony Andrioli, Ruud Vermeij, Brian 
 
 ## Project ActivPal
 
+### Introduction
+In this portfolio you can read about the journey of a Business IT & Management student following the minor Data Science. It was a hard but really fun minor that learned me alot of new aspects of IT. I would like to thank the lecturers for their time and effort that has been put into the students!
+
+
+
 ### Research project
 ### Task Definition
 In this portfolio you can read all my individual work to the ActivePal project for the minor Data Science. Since I didn't have a background into programming my main focus was to do research work for the project. But since I had alot more fun in programming then I expected you can read more about my learning experience in Python aswell!
@@ -22,7 +27,7 @@ To answer this questions we decided that we first had to answer the following tw
 How can Machine Learning be used to predict the intensity of activities performed by a person wearing only the ActivPal accelerometer, based on the data gathered from Vyntus One and ActivPal accelerometer in the lab situation? </b>
 
 
-
+More about the task definition can be read in the research plan. 
 
 <details> <summary>Reseach plan</summary>
 Personally I took the job on me to make sure that every member of the projectgroup had a clear understanding of the project. To do this I wanted to create the first iteration of the research plan. In this research plan members would be able to get a more knowledge of the given task by CBS, read the research questions and read what exactly we do for the work planning. Based on the research plan that I made people were able to make new iterations of the reseach questions and were able to read the exact task that CBS gave us.    
