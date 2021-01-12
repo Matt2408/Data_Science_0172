@@ -41,7 +41,9 @@ The research plan helped the group to understand the problem domain, discuss abo
 </details>
 
 ### Planning
-At the beginning of the project the group decided unanimously that we wanted to work in an agile way. Because of that we decided that we wanted to follow philosophy of Scrum, but didn't want to follow every rule exact, this means that there was some flexibility on our side. Within the group we decided that we wanted to have sprints of two weeks and ending the sprint with a retrospective. At every retrospective I (and my group members) gave my feedback based on the progress. More about the planning can be read down below in the sub paragraph: Research plan - planning (written by me).
+At the beginning of the project the group decided unanimously that we wanted to work in an agile way. Because of that we decided that we wanted to follow philosophy of Scrum, but didn't want to follow every rule exact, this means that there was some flexibility on our side. Within the group we decided that we wanted to have sprints of two weeks and ending the sprint with a retrospective. At every retrospective I (and my group members) gave my feedback based on the progress. 
+
+More about the planning can be read down below in the sub paragraph: Research plan - planning (written by me).
 
 
 <details> <summary>Jira</summary>
