@@ -773,5 +773,21 @@ Within this Minor I have been doing Data Camp to learn more about Data Science. 
 
 ---
 
+## Notebooks
+<details> <summary>List of notebooks</summary>
+Below you can find almost all notebooks that I have worked on. Of course over time some of them got deleted because they didn't get used. 
 
+- [XGBoost fietsen](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20fietsen%20v2.ipynb)
+- [XGBoost lopen](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20lopen%20v2.ipynb)
+- [XGBoost rennen](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20rennen%20v2.ipynb)
+- [XGBoost staan](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20staan%20v2.ipynb)
+- [XGBoost zitten](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20zitten%20v2.ipynb)
+- [Pearsons](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/pearson_correlation_matrix.ipynb)
+- [Crossvalidation](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Balancing.ipynb)
+- [Balancing](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Balancing.ipynb)
+- [RFE](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/feature_selection_matt.ipynb)
+- [Analyzing](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb)
+- [More plotting](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/all_steps_activity_data_analyse_Matt_v2.ipynb)
+- And more..
+</details>
 
