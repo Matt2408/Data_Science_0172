@@ -1,6 +1,6 @@
 # Portfolio Data Science
 Name: Matthew Turkenburg  <br />
-Studentnumber: <br />
+Studentnumber: 17113148<br />
 Course: Applied Data Science Minor<br />
 Lecturers: Jeroen Vuurens, Gerda in 't Veld, Tony Andrioli, Ruud Vermeij, Brian de keijzer
 
