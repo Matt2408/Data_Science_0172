@@ -149,7 +149,9 @@ Met de modellen en de applicatie tonen wij aan op welke wijze machine learning k
 
 </details>
 
-
+<details> <summary>Paper</summary>
+In the paper you can read our scientific conclusion. My contribution to that is that I gave feedback on the first itertation and helped with the third and last iteration.
+</details>
 
 
 ### Evaluation
@@ -348,6 +350,8 @@ The small movements that are being picked up by the accelerator can be caused by
 
 I discussed with the group and CBS how some of the corrospondents are starting at a different value then 1.G (range of 1.0 to 1.3G) but so far this can't be explained.
 
+[Link to notebook](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb)
+
 ---
 
 </details>
@@ -425,6 +429,8 @@ n_scores = cross_val_score(pipeline, x, y, scoring='accuracy', cv=cv, n_jobs=-1,
 print('Accuracy: %.3f (%.3f)' % (mean(n_scores), std(n_scores)))
 ````
 
+[Link to notebook] (https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/feature_selection_matt.ipynb)
+
 ---
 
 </details>
@@ -436,7 +442,7 @@ Together with Colin, I have been working on merging all our dataframes into one 
 
 My contrubution to the collaboration with Colin was being the person that was writing the code. He was the one that was assisting me with the code itself and the thought process.
 
-Link to notebook: https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Creating%20main%20dataframe%20(containing%20all%20data).ipynb
+[Link to notebook](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Creating%20main%20dataframe%20(containing%20all%20data).ipynb)
 
 
 </details>
@@ -462,7 +468,7 @@ Link to notebook: https://datascience.hhs.nl:8888/user/17113148/notebooks/active
 In this visualization I wanted to show CBS some insights that I had found. The results were suprissing for CBS themself aswell and they were glad that we had found it. 
 
 
-Link to notebook: https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb
+[Link to notebook:](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/Analyse%20and%20document%20%7BX%2C%20Y%2C%20Z%7D%20data.ipynb)
 
 ---
 
@@ -492,6 +498,9 @@ I had chosen to build the XGBoost model because it's very similar to our Random 
 
 APA: </br>
 A. Ogunleye and Q. -G. Wang, "XGBoost Model for Chronic Kidney Disease Diagnosis," in IEEE/ACM Transactions on Computational Biology and Bioinformatics, vol. 17, no. 6, pp. 2131-2140, 1 Nov.-Dec. 2020, doi: 10.1109/TCBB.2019.2911071.
+
+
+[XGBoost notebook](https://datascience.hhs.nl:8888/user/17113148/notebooks/activepal/code/src/xgboost%20model%20MET%20and%20fietsen%20v2.ipynb)
 
 ---
 
@@ -610,8 +619,8 @@ One of the issues that can occur is under/overfitting by outerliers. To prevent 
 
 </details>
 
-<details> <summary>Evaluating a model [TODO]</summary>
-
+<details> <summary>Evaluating a model</summary>
+One of the things that I haven't done personally was validating the results with cross validation. This has been done by one of my groupmembers instead.
 
 
 
