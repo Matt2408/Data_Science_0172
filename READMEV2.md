@@ -126,7 +126,7 @@ As you can read in the table, his activity recognition is able to get high final
 > <b> How can Machine Learning be used to determine whether people did their 150 minutes of moderate activity in ActivPal accelerometer data of an entire week? </b>
 By first doing an activity reconigzion prediction on your dataset you are able to predict what kind of activities were done. As seen in our activity recogniztion model it can accurately predict whenever somebody for example is running. Every activity has a standard MET value. By using a seperate model to determine the intensity of an activity (the MET value used in our case) you are able  to calculate if a person did their 150 minutes of moderate activity.  
 
-However the accuratie depends on the dataset. If there isn't enough data as seen in our research, there is a big chance on overfitting. You can see my thoughs about this in the next chapter (Evaluation)
+However the accuracy depends on the dataset. If there isn't enough data as seen in our research, there is a big chance on overfitting. You can see my thoughs about this in the next chapter (Evaluation)
 
 --- 
 
@@ -134,6 +134,8 @@ However the accuratie depends on the dataset. If there isn't enough data as seen
 
 <details> <summary>Email to CBS with conclusions</summary>
 Hieronder leest u de algemene conclusie die ik heb geschreven (namens de groep) die wij hebben gestuurd naar CBS. In deze conclusie leest CBS over de algemene resultaten die hebben wij gevonden. Deze conclusie is gestuurd naar de overige overdrachtsdocumenten zoals bijvoorbeeld de notebooks. 
+
+</br>
 
 Machine learning kan worden ingezet om te voorspellen of een persoon zijn zijn/haar 150 minuten of matige lichamelijke activiteit heeft uitgevoerd. Dit kan worden voorspelt doormiddel van een combinatie van twee verschillende modellen. Ten eerste zal een activiteiten herkenning model moeten worden uitgevoerd op de weekdata. Dit model voorspelt doormiddel van verschillende features welke activiteit door de persoon werd uitgevoerd. Binnen het project hebben wij ervoor gekozen om een random forest model te gebruiken om de activiteiten te voorspellen. Bij deze voorspelling is ervoor gekozen om de activiteiten springen en traplopen niet mee te nemen omdat hiervoor geen lab data aanwezig was (vyntus data) en om deze reden ook geen ground truth voor de MET values. 
 Nadat de activiteit is voorspelt, komt er een tweede model in het gebruik. Doormiddel van een model dat per activiteit een MET waarde kan voorspelt, is het mogelijk om de intensiviteit van een activiteit te bereken. Voor het voorspellen van de MET waarde, is er gekozen voor twee verschillende modellen waar de resultaten vrij dicht bij elkaar liggen. Namelijk een random forest model en een XGBoost model. Voor het berekenen van de MET waarde, is ervoor gekozen om deze te bereken per minuut zoals aangegeven in de literatuur. 
@@ -711,13 +713,6 @@ V = Version
 
 ---
 
-## Datacamp
-Within this Minor I have been doing Data Camp to learn more about Data Science. In this chapter you can find all the courses that I have finished while doing the Minor. 
-
-![Images](/Evidence/Datacamp.png)
-
----
-
 ## Reflection and evaluation
 <details> <summary>Reflection on own contribution to the project</summary> 
 <b>S</b>ituation:</br> Looking back at the ActivePal project, I really had a good time with the project group. We started off early and planned alot of things straight away from day one. Since the minor was the last step before I can graduate, I almost always gave my 100% since I really wanted to succeed. The project subject was challenging but that helped me to keep my head straight. I tried to contribute as much as possible to all tasks, especially the tasks that were signed in my name. The project group was fun and the longer we were working together, the better the results became. It took some time to get into the project, but it was a fun challenge. 
@@ -770,4 +765,13 @@ If I look at the first task, about learning Python. I definitly can say that I l
 ---
 
 </details>
+
+## Datacamp
+Within this Minor I have been doing Data Camp to learn more about Data Science. In this chapter you can find all the courses that I have finished while doing the Minor. 
+
+![Images](/Evidence/Datacamp.png)
+
+---
+
+
 
